@@ -1,0 +1,2448 @@
+commit 15ec4b069bea72de5888b54e1a0b80157d210a20
+Author: WeihanLee <weihan.lee@imperial.ac.uk>
+Date:   Thu Mar 23 10:53:22 2023 +0000
+
+    final
+
+A	#nth.slr#
+M	Case_1.png
+M	nth.slr
+D	repository.log
+M	thread_10_BLAS.txt
+M	thread_11_BLAS.txt
+M	thread_12_BLAS.txt
+M	thread_1_BLAS.txt
+M	thread_2_BLAS.txt
+M	thread_3_BLAS.txt
+M	thread_4_BLAS.txt
+M	thread_5_BLAS.txt
+M	thread_6_BLAS.txt
+M	thread_7_BLAS.txt
+M	thread_8_BLAS.txt
+M	thread_9_BLAS.txt
+
+commit 0dadf88c41c44f8be7c82998580bf0698f4a40c4
+Author: WeihanLee <weihan.lee@imperial.ac.uk>
+Date:   Tue Mar 21 16:57:51 2023 +0000
+
+    Final_submission
+
+A	Doxyfile
+M	ShallowWater.h
+M	ShallowWater.o
+M	ShallowWaterMain
+A	html/ShallowWater_8h_source.html
+A	html/annotated.html
+A	html/bc_s.png
+A	html/bdwn.png
+A	html/classShallowWater-members.html
+A	html/classShallowWater.html
+A	html/classes.html
+A	html/closed.png
+A	html/doc.png
+A	html/doxygen.css
+A	html/doxygen.svg
+A	html/dynsections.js
+A	html/files.html
+A	html/folderclosed.png
+A	html/folderopen.png
+A	html/functions.html
+A	html/functions_func.html
+A	html/graph_legend.html
+A	html/graph_legend.md5
+A	html/graph_legend.png
+A	html/index.html
+A	html/jquery.js
+A	html/menu.js
+A	html/menudata.js
+A	html/nav_f.png
+A	html/nav_g.png
+A	html/nav_h.png
+A	html/open.png
+A	html/search/all_0.html
+A	html/search/all_0.js
+A	html/search/all_1.html
+A	html/search/all_1.js
+A	html/search/all_2.html
+A	html/search/all_2.js
+A	html/search/all_3.html
+A	html/search/all_3.js
+A	html/search/classes_0.html
+A	html/search/classes_0.js
+A	html/search/close.svg
+A	html/search/functions_0.html
+A	html/search/functions_0.js
+A	html/search/functions_1.html
+A	html/search/functions_1.js
+A	html/search/functions_2.html
+A	html/search/functions_2.js
+A	html/search/functions_3.html
+A	html/search/functions_3.js
+A	html/search/mag_sel.svg
+A	html/search/nomatches.html
+A	html/search/search.css
+A	html/search/search.js
+A	html/search/search_l.png
+A	html/search/search_m.png
+A	html/search/search_r.png
+A	html/search/searchdata.js
+A	html/splitbar.png
+A	html/sync_off.png
+A	html/sync_on.png
+A	html/tab_a.png
+A	html/tab_b.png
+A	html/tab_h.png
+A	html/tab_s.png
+A	html/tabs.css
+A	latex/Makefile
+A	latex/annotated.tex
+A	latex/classShallowWater.tex
+A	latex/doxygen.sty
+A	latex/longtable_doxygen.sty
+A	latex/refman.tex
+A	latex/tabu_doxygen.sty
+M	nth.slr
+A	repository.log
+M	thread_10_BLAS.txt
+M	thread_11_BLAS.txt
+M	thread_12_BLAS.txt
+M	thread_1_BLAS.txt
+M	thread_20_BLAS.txt
+M	thread_2_BLAS.txt
+M	thread_30_BLAS.txt
+M	thread_3_BLAS.txt
+M	thread_40_BLAS.txt
+M	thread_4_BLAS.txt
+M	thread_5_BLAS.txt
+M	thread_6_BLAS.txt
+M	thread_7_BLAS.txt
+M	thread_8_BLAS.txt
+M	thread_9_BLAS.txt
+
+commit ef4b6a152d7bb8848cdf52401ca6aadf68d7ba23
+Author: WeihanLee <weihan.lee@imperial.ac.uk>
+Date:   Tue Mar 21 08:28:42 2023 +0000
+
+    All_project
+
+M	ShallowWater.cpp
+
+commit b5f85b9314b09ea6f0101d640ba508f7417aff9b
+Author: WeihanLee <weihan.lee@imperial.ac.uk>
+Date:   Tue Mar 21 08:26:40 2023 +0000
+
+    Final_report_done
+
+M	ShallowWater.cpp
+M	ShallowWater.o
+M	ShallowWaterMain
+M	nth.slr
+M	output.txt
+D	repository.log
+M	thread_1_BLAS.txt
+M	thread_2_BLAS.txt
+M	thread_3_BLAS.txt
+M	thread_5_BLAS.txt
+M	thread_6_BLAS.txt
+M	thread_7_BLAS.txt
+M	thread_8_BLAS.txt
+
+commit 2793fcc0ec7a1e5252766e01650994981c34acc1
+Author: WeihanLee <weihan.lee@imperial.ac.uk>
+Date:   Mon Mar 20 17:45:39 2023 +0000
+
+    Final_report_done
+
+M	Case_1.png
+M	ShallowWater.cpp
+M	ShallowWater.h
+M	ShallowWater.o
+M	ShallowWaterMain
+M	ShallowWaterMain.o
+M	output.txt
+M	repository.log
+
+commit 9a1cf19eb2497ebfce31e730f6e0361e62741487
+Author: WeihanLee <weihan.lee@imperial.ac.uk>
+Date:   Mon Mar 20 17:21:29 2023 +0000
+
+    Final_Report
+
+A	repository.log
+
+commit 560c7d2a42e08fe6c9672856d9ceb1a9c07b45b8
+Author: WeihanLee <weihan.lee@imperial.ac.uk>
+Date:   Mon Mar 20 17:21:04 2023 +0000
+
+    final_report
+
+M	Makefile
+M	ShallowWater.o
+M	ShallowWaterMain
+A	mathop.er/_x1.er/data.frameinfo
+A	mathop.er/_x1.er/dyntext
+A	mathop.er/_x1.er/er_archive.log
+A	mathop.er/_x1.er/jclasses
+A	mathop.er/_x1.er/log.xml
+A	mathop.er/_x1.er/map.xml
+A	mathop.er/_x1.er/overview
+A	mathop.er/_x1.er/profile
+A	mathop.er/_x1_f1.er/data.frameinfo
+A	mathop.er/_x1_f1.er/dyntext
+A	mathop.er/_x1_f1.er/jclasses
+A	mathop.er/_x1_f1.er/log.xml
+A	mathop.er/_x1_f1.er/map.xml
+A	mathop.er/_x1_f1.er/overview
+A	mathop.er/_x1_f1.er/profile
+A	mathop.er/_x1_f1_x1.er/data.frameinfo
+A	mathop.er/_x1_f1_x1.er/dyntext
+A	mathop.er/_x1_f1_x1.er/er_archive.log
+A	mathop.er/_x1_f1_x1.er/jclasses
+A	mathop.er/_x1_f1_x1.er/log.xml
+A	mathop.er/_x1_f1_x1.er/map.xml
+A	mathop.er/_x1_f1_x1.er/overview
+A	mathop.er/_x1_f1_x1.er/profile
+A	mathop.er/archives/ShallowWaterMain_5uKiWSIGsf0
+A	mathop.er/archives/ld-2.31.so_XLwlkF_Wwof
+A	mathop.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+A	mathop.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+A	mathop.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+A	mathop.er/archives/libc-2.31.so_XLwlkF_Wwof
+A	mathop.er/archives/libcollector.so_kN_xj2QRtH5
+A	mathop.er/archives/libdl-2.31.so_XLwlkF_Wwof
+A	mathop.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+A	mathop.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+A	mathop.er/archives/libgomp.so.1.0.0_dnWuQRcLhw9
+A	mathop.er/archives/libm-2.31.so_XLwlkF_Wwof
+A	mathop.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+A	mathop.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+A	mathop.er/archives/librt-2.31.so_XLwlkF_Wwof
+A	mathop.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+A	mathop.er/archives/make_UHyILZt997d
+A	mathop.er/archives/time_UHyILZt997d
+A	mathop.er/data.frameinfo
+A	mathop.er/dyntext
+A	mathop.er/er_archive.log
+A	mathop.er/jclasses
+A	mathop.er/log.xml
+A	mathop.er/map.xml
+A	mathop.er/overview
+A	mathop.er/profile
+M	output.txt
+A	precomp.er/_x1.er/data.frameinfo
+A	precomp.er/_x1.er/dyntext
+A	precomp.er/_x1.er/er_archive.log
+A	precomp.er/_x1.er/jclasses
+A	precomp.er/_x1.er/log.xml
+A	precomp.er/_x1.er/map.xml
+A	precomp.er/_x1.er/overview
+A	precomp.er/_x1.er/profile
+A	precomp.er/_x1_f1.er/data.frameinfo
+A	precomp.er/_x1_f1.er/dyntext
+A	precomp.er/_x1_f1.er/jclasses
+A	precomp.er/_x1_f1.er/log.xml
+A	precomp.er/_x1_f1.er/map.xml
+A	precomp.er/_x1_f1.er/overview
+A	precomp.er/_x1_f1.er/profile
+A	precomp.er/_x1_f1_x1.er/data.frameinfo
+A	precomp.er/_x1_f1_x1.er/dyntext
+A	precomp.er/_x1_f1_x1.er/er_archive.log
+A	precomp.er/_x1_f1_x1.er/jclasses
+A	precomp.er/_x1_f1_x1.er/log.xml
+A	precomp.er/_x1_f1_x1.er/map.xml
+A	precomp.er/_x1_f1_x1.er/overview
+A	precomp.er/_x1_f1_x1.er/profile
+A	precomp.er/archives/ShallowWaterMain_5uKiWSIGsf0
+A	precomp.er/archives/ld-2.31.so_XLwlkF_Wwof
+A	precomp.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+A	precomp.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+A	precomp.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+A	precomp.er/archives/libc-2.31.so_XLwlkF_Wwof
+A	precomp.er/archives/libcollector.so_kN_xj2QRtH5
+A	precomp.er/archives/libdl-2.31.so_XLwlkF_Wwof
+A	precomp.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+A	precomp.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+A	precomp.er/archives/libgomp.so.1.0.0_dnWuQRcLhw9
+A	precomp.er/archives/libm-2.31.so_XLwlkF_Wwof
+A	precomp.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+A	precomp.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+A	precomp.er/archives/librt-2.31.so_XLwlkF_Wwof
+A	precomp.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+A	precomp.er/archives/make_UHyILZt997d
+A	precomp.er/archives/time_UHyILZt997d
+A	precomp.er/data.frameinfo
+A	precomp.er/dyntext
+A	precomp.er/er_archive.log
+A	precomp.er/jclasses
+A	precomp.er/log.xml
+A	precomp.er/map.xml
+A	precomp.er/overview
+A	precomp.er/profile
+D	repository.log
+
+commit c7f402c50d98d208781c08c311fe0e943d5a170a
+Author: WeihanLee <weihan.lee@imperial.ac.uk>
+Date:   Mon Mar 20 16:52:56 2023 +0000
+
+    all working, final
+
+D	1.er/er_archive.log
+D	1.er/log.xml
+D	1.er/overview
+D	2.er/_x1.er/er_archive.log
+D	2.er/_x1.er/log.xml
+D	2.er/_x1.er/overview
+D	2.er/_x1_f1.er/overview
+D	2.er/_x1_f1_x1.er/data.frameinfo
+D	2.er/_x1_f1_x1.er/er_archive.log
+D	2.er/_x1_f1_x1.er/log.xml
+D	2.er/_x1_f1_x1.er/map.xml
+D	2.er/_x1_f1_x1.er/overview
+D	2.er/_x1_f1_x1.er/profile
+D	2.er/archives/ShallowWaterMain_5uKiWSIGsf0
+D	2.er/er_archive.log
+D	2.er/map.xml
+D	2.er/overview
+D	3.er/_x1.er/dyntext
+D	3.er/_x1.er/er_archive.log
+D	3.er/_x1.er/log.xml
+D	3.er/_x1.er/overview
+D	3.er/_x1_f1.er/log.xml
+D	3.er/_x1_f1_x1.er/dyntext
+D	3.er/_x1_f1_x1.er/er_archive.log
+D	3.er/_x1_f1_x1.er/log.xml
+D	3.er/_x1_f1_x1.er/map.xml
+D	3.er/_x1_f1_x1.er/overview
+D	3.er/_x1_f1_x1.er/profile
+D	3.er/archives/ShallowWaterMain_5uKiWSIGsf0
+D	3.er/dyntext
+D	3.er/er_archive.log
+D	3.er/log.xml
+D	3.er/overview
+M	Case_1.png
+D	OMPTest4.er/_x1.er/dyntext
+D	OMPTest4.er/_x1.er/er_archive.log
+D	OMPTest4.er/_x1.er/overview
+D	OMPTest4.er/_x1_f1.er/overview
+D	OMPTest4.er/_x1_f1_x1.er/data.frameinfo
+D	OMPTest4.er/_x1_f1_x1.er/dyntext
+D	OMPTest4.er/_x1_f1_x1.er/er_archive.log
+D	OMPTest4.er/_x1_f1_x1.er/overview
+D	OMPTest4.er/dyntext
+D	OMPTest4.er/er_archive.log
+D	OMPTest4.er/overview
+D	OMPTest5.er/_x1.er/dyntext
+D	OMPTest5.er/_x1.er/er_archive.log
+D	OMPTest5.er/_x1.er/overview
+D	OMPTest5.er/_x1_f1.er/log.xml
+D	OMPTest5.er/_x1_f1.er/overview
+D	OMPTest5.er/_x1_f1_x1.er/data.frameinfo
+D	OMPTest5.er/_x1_f1_x1.er/dyntext
+D	OMPTest5.er/_x1_f1_x1.er/er_archive.log
+D	OMPTest5.er/_x1_f1_x1.er/map.xml
+D	OMPTest5.er/_x1_f1_x1.er/overview
+D	OMPTest5.er/_x1_f1_x1.er/profile
+D	OMPTest5.er/archives/ld-2.31.so_XLwlkF_Wwof
+D	OMPTest5.er/archives/libc-2.31.so_XLwlkF_Wwof
+D	OMPTest5.er/archives/libcollector.so_kN_xj2QRtH5
+D	OMPTest5.er/archives/libdl-2.31.so_XLwlkF_Wwof
+D	OMPTest5.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+D	OMPTest5.er/archives/librt-2.31.so_XLwlkF_Wwof
+D	OMPTest5.er/archives/make_UHyILZt997d
+D	OMPTest5.er/data.frameinfo
+D	OMPTest5.er/dyntext
+D	OMPTest5.er/er_archive.log
+D	OMPTest5.er/jclasses
+D	OMPTest5.er/map.xml
+D	OMPTest5.er/overview
+D	OMPTest5.er/profile
+M	ShallowWater.o
+M	ShallowWaterMain
+R100	1.er/data.frameinfo	blasopt.er/_x1.er/data.frameinfo
+R093	1.er/dyntext	blasopt.er/_x1.er/dyntext
+A	blasopt.er/_x1.er/er_archive.log
+R100	1.er/jclasses	blasopt.er/_x1.er/jclasses
+R096	ompfor80_4_1.er/_x1.er/log.xml	blasopt.er/_x1.er/log.xml
+R092	3.er/_x1_f1.er/map.xml	blasopt.er/_x1.er/map.xml
+A	blasopt.er/_x1.er/overview
+R100	1.er/profile	blasopt.er/_x1.er/profile
+R100	2.er/_x1.er/data.frameinfo	blasopt.er/_x1_f1.er/data.frameinfo
+R100	2.er/_x1_f1.er/dyntext	blasopt.er/_x1_f1.er/dyntext
+R100	2.er/_x1.er/jclasses	blasopt.er/_x1_f1.er/jclasses
+R096	2.er/_x1_f1.er/log.xml	blasopt.er/_x1_f1.er/log.xml
+R092	test.1.er/_x1_f1.er/map.xml	blasopt.er/_x1_f1.er/map.xml
+A	blasopt.er/_x1_f1.er/overview
+R100	2.er/_x1.er/profile	blasopt.er/_x1_f1.er/profile
+A	blasopt.er/_x1_f1_x1.er/data.frameinfo
+R093	2.er/_x1.er/dyntext	blasopt.er/_x1_f1_x1.er/dyntext
+A	blasopt.er/_x1_f1_x1.er/er_archive.log
+R100	2.er/_x1_f1.er/jclasses	blasopt.er/_x1_f1_x1.er/jclasses
+R095	OMPTest4.er/_x1_f1_x1.er/log.xml	blasopt.er/_x1_f1_x1.er/log.xml
+R082	ompfor80_4_1.er/_x1_f1_x1.er/map.xml	blasopt.er/_x1_f1_x1.er/map.xml
+A	blasopt.er/_x1_f1_x1.er/overview
+A	blasopt.er/_x1_f1_x1.er/profile
+R095	test.1.er/archives/ShallowWaterMain_5uKiWSIGsf0	blasopt.er/archives/ShallowWaterMain_5uKiWSIGsf0
+R100	1.er/archives/ld-2.31.so_XLwlkF_Wwof	blasopt.er/archives/ld-2.31.so_XLwlkF_Wwof
+R100	2.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9	blasopt.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+R100	2.er/archives/libblas.so.3.10.3_IiHvjNbM48a	blasopt.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+R100	2.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9	blasopt.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+R100	1.er/archives/libc-2.31.so_XLwlkF_Wwof	blasopt.er/archives/libc-2.31.so_XLwlkF_Wwof
+R100	1.er/archives/libcollector.so_kN_xj2QRtH5	blasopt.er/archives/libcollector.so_kN_xj2QRtH5
+R100	1.er/archives/libdl-2.31.so_XLwlkF_Wwof	blasopt.er/archives/libdl-2.31.so_XLwlkF_Wwof
+R100	2.er/archives/libgcc_s.so.1_XLwlkF_Wwof	blasopt.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+R100	2.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9	blasopt.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+R100	OMPTest4.er/archives/libgomp.so.1.0.0_dnWuQRcLhw9	blasopt.er/archives/libgomp.so.1.0.0_dnWuQRcLhw9
+R100	2.er/archives/libm-2.31.so_XLwlkF_Wwof	blasopt.er/archives/libm-2.31.so_XLwlkF_Wwof
+R100	1.er/archives/libpthread-2.31.so_XLwlkF_Wwof	blasopt.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+R100	2.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9	blasopt.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+R100	1.er/archives/librt-2.31.so_XLwlkF_Wwof	blasopt.er/archives/librt-2.31.so_XLwlkF_Wwof
+R100	2.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9	blasopt.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+R100	1.er/archives/make_UHyILZt997d	blasopt.er/archives/make_UHyILZt997d
+R100	2.er/archives/time_UHyILZt997d	blasopt.er/archives/time_UHyILZt997d
+R100	2.er/_x1_f1.er/data.frameinfo	blasopt.er/data.frameinfo
+R093	2.er/dyntext	blasopt.er/dyntext
+A	blasopt.er/er_archive.log
+R100	2.er/_x1_f1_x1.er/jclasses	blasopt.er/jclasses
+R096	2.er/log.xml	blasopt.er/log.xml
+R092	1.er/map.xml	blasopt.er/map.xml
+A	blasopt.er/overview
+R100	2.er/_x1_f1.er/profile	blasopt.er/profile
+R100	2.er/data.frameinfo	cachefor4.er/_x1.er/data.frameinfo
+R093	2.er/_x1_f1_x1.er/dyntext	cachefor4.er/_x1.er/dyntext
+A	cachefor4.er/_x1.er/er_archive.log
+R100	2.er/jclasses	cachefor4.er/_x1.er/jclasses
+R096	OMPTest5.er/_x1.er/log.xml	cachefor4.er/_x1.er/log.xml
+R092	OMPTest4.er/_x1.er/map.xml	cachefor4.er/_x1.er/map.xml
+A	cachefor4.er/_x1.er/overview
+R100	2.er/profile	cachefor4.er/_x1.er/profile
+R100	3.er/_x1.er/data.frameinfo	cachefor4.er/_x1_f1.er/data.frameinfo
+R100	3.er/_x1_f1.er/dyntext	cachefor4.er/_x1_f1.er/dyntext
+R100	3.er/_x1.er/jclasses	cachefor4.er/_x1_f1.er/jclasses
+R096	ompFor80.er/_x1_f1.er/log.xml	cachefor4.er/_x1_f1.er/log.xml
+R092	OMPTest4.er/_x1_f1.er/map.xml	cachefor4.er/_x1_f1.er/map.xml
+R050	test.1.er/_x1_f1.er/overview	cachefor4.er/_x1_f1.er/overview
+R100	3.er/_x1.er/profile	cachefor4.er/_x1_f1.er/profile
+R085	test11.er/_x1_f1_x1.er/data.frameinfo	cachefor4.er/_x1_f1_x1.er/data.frameinfo
+A	cachefor4.er/_x1_f1_x1.er/dyntext
+A	cachefor4.er/_x1_f1_x1.er/er_archive.log
+R100	3.er/_x1_f1.er/jclasses	cachefor4.er/_x1_f1_x1.er/jclasses
+R096	ompfor80_1.er/_x1_f1_x1.er/log.xml	cachefor4.er/_x1_f1_x1.er/log.xml
+R083	OMPTest4.er/_x1_f1_x1.er/map.xml	cachefor4.er/_x1_f1_x1.er/map.xml
+A	cachefor4.er/_x1_f1_x1.er/overview
+R087	OMPTest4.er/_x1_f1_x1.er/profile	cachefor4.er/_x1_f1_x1.er/profile
+R098	OMPTest5.er/archives/ShallowWaterMain_5uKiWSIGsf0	cachefor4.er/archives/ShallowWaterMain_5uKiWSIGsf0
+R100	2.er/archives/ld-2.31.so_XLwlkF_Wwof	cachefor4.er/archives/ld-2.31.so_XLwlkF_Wwof
+R100	3.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9	cachefor4.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+R100	3.er/archives/libblas.so.3.10.3_IiHvjNbM48a	cachefor4.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+R100	3.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9	cachefor4.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+R100	2.er/archives/libc-2.31.so_XLwlkF_Wwof	cachefor4.er/archives/libc-2.31.so_XLwlkF_Wwof
+R100	2.er/archives/libcollector.so_kN_xj2QRtH5	cachefor4.er/archives/libcollector.so_kN_xj2QRtH5
+R100	2.er/archives/libdl-2.31.so_XLwlkF_Wwof	cachefor4.er/archives/libdl-2.31.so_XLwlkF_Wwof
+R100	3.er/archives/libgcc_s.so.1_XLwlkF_Wwof	cachefor4.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+R100	3.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9	cachefor4.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+R100	OMPTest5.er/archives/libgomp.so.1.0.0_dnWuQRcLhw9	cachefor4.er/archives/libgomp.so.1.0.0_dnWuQRcLhw9
+R100	3.er/archives/libm-2.31.so_XLwlkF_Wwof	cachefor4.er/archives/libm-2.31.so_XLwlkF_Wwof
+R100	2.er/archives/libpthread-2.31.so_XLwlkF_Wwof	cachefor4.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+R100	3.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9	cachefor4.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+R100	2.er/archives/librt-2.31.so_XLwlkF_Wwof	cachefor4.er/archives/librt-2.31.so_XLwlkF_Wwof
+R100	3.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9	cachefor4.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+R100	2.er/archives/make_UHyILZt997d	cachefor4.er/archives/make_UHyILZt997d
+R100	3.er/archives/time_UHyILZt997d	cachefor4.er/archives/time_UHyILZt997d
+R100	3.er/_x1_f1.er/data.frameinfo	cachefor4.er/data.frameinfo
+A	cachefor4.er/dyntext
+A	cachefor4.er/er_archive.log
+R100	3.er/_x1_f1_x1.er/jclasses	cachefor4.er/jclasses
+R096	OMPTest4.er/log.xml	cachefor4.er/log.xml
+R092	OMPTest4.er/map.xml	cachefor4.er/map.xml
+A	cachefor4.er/overview
+R100	3.er/_x1_f1.er/profile	cachefor4.er/profile
+M	nth.slr
+R100	3.er/data.frameinfo	o3.er/_x1.er/data.frameinfo
+A	o3.er/_x1.er/dyntext
+A	o3.er/_x1.er/er_archive.log
+R100	3.er/jclasses	o3.er/_x1.er/jclasses
+R095	test.1.er/_x1.er/log.xml	o3.er/_x1.er/log.xml
+R092	2.er/_x1.er/map.xml	o3.er/_x1.er/map.xml
+A	o3.er/_x1.er/overview
+R100	3.er/profile	o3.er/_x1.er/profile
+R100	OMPTest4.er/_x1.er/data.frameinfo	o3.er/_x1_f1.er/data.frameinfo
+R100	OMPTest4.er/_x1_f1.er/dyntext	o3.er/_x1_f1.er/dyntext
+R100	OMPTest4.er/_x1.er/jclasses	o3.er/_x1_f1.er/jclasses
+R096	OMPTest4.er/_x1_f1.er/log.xml	o3.er/_x1_f1.er/log.xml
+R092	2.er/_x1_f1.er/map.xml	o3.er/_x1_f1.er/map.xml
+A	o3.er/_x1_f1.er/overview
+R100	OMPTest4.er/_x1.er/profile	o3.er/_x1_f1.er/profile
+R064	3.er/_x1_f1_x1.er/data.frameinfo	o3.er/_x1_f1_x1.er/data.frameinfo
+A	o3.er/_x1_f1_x1.er/dyntext
+A	o3.er/_x1_f1_x1.er/er_archive.log
+R100	OMPTest4.er/_x1_f1.er/jclasses	o3.er/_x1_f1_x1.er/jclasses
+R095	OMPTest5.er/_x1_f1_x1.er/log.xml	o3.er/_x1_f1_x1.er/log.xml
+R083	test.1.er/_x1_f1_x1.er/map.xml	o3.er/_x1_f1_x1.er/map.xml
+A	o3.er/_x1_f1_x1.er/overview
+R073	OMPTest5.er/_x1.er/map.xml	o3.er/_x1_f1_x1.er/profile
+A	o3.er/archives/ShallowWaterMain_5uKiWSIGsf0
+R100	3.er/archives/ld-2.31.so_XLwlkF_Wwof	o3.er/archives/ld-2.31.so_XLwlkF_Wwof
+R100	OMPTest4.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9	o3.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+R100	OMPTest4.er/archives/libblas.so.3.10.3_IiHvjNbM48a	o3.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+R100	OMPTest4.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9	o3.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+R100	3.er/archives/libc-2.31.so_XLwlkF_Wwof	o3.er/archives/libc-2.31.so_XLwlkF_Wwof
+R100	3.er/archives/libcollector.so_kN_xj2QRtH5	o3.er/archives/libcollector.so_kN_xj2QRtH5
+R100	3.er/archives/libdl-2.31.so_XLwlkF_Wwof	o3.er/archives/libdl-2.31.so_XLwlkF_Wwof
+R100	OMPTest4.er/archives/libgcc_s.so.1_XLwlkF_Wwof	o3.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+R100	OMPTest4.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9	o3.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+R100	ompFor80.er/archives/libgomp.so.1.0.0_dnWuQRcLhw9	o3.er/archives/libgomp.so.1.0.0_dnWuQRcLhw9
+R100	OMPTest4.er/archives/libm-2.31.so_XLwlkF_Wwof	o3.er/archives/libm-2.31.so_XLwlkF_Wwof
+R100	3.er/archives/libpthread-2.31.so_XLwlkF_Wwof	o3.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+R100	OMPTest4.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9	o3.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+R100	3.er/archives/librt-2.31.so_XLwlkF_Wwof	o3.er/archives/librt-2.31.so_XLwlkF_Wwof
+R100	OMPTest4.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9	o3.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+R100	3.er/archives/make_UHyILZt997d	o3.er/archives/make_UHyILZt997d
+R100	OMPTest4.er/archives/time_UHyILZt997d	o3.er/archives/time_UHyILZt997d
+R100	OMPTest4.er/_x1_f1.er/data.frameinfo	o3.er/data.frameinfo
+A	o3.er/dyntext
+A	o3.er/er_archive.log
+R100	OMPTest4.er/_x1_f1_x1.er/jclasses	o3.er/jclasses
+R096	OMPTest5.er/log.xml	o3.er/log.xml
+R092	3.er/map.xml	o3.er/map.xml
+A	o3.er/overview
+R100	OMPTest4.er/_x1_f1.er/profile	o3.er/profile
+D	ompFor80.er/_x1.er/data.frameinfo
+D	ompFor80.er/_x1.er/dyntext
+D	ompFor80.er/_x1.er/er_archive.log
+D	ompFor80.er/_x1.er/jclasses
+D	ompFor80.er/_x1.er/log.xml
+D	ompFor80.er/_x1.er/map.xml
+D	ompFor80.er/_x1.er/overview
+D	ompFor80.er/_x1.er/profile
+D	ompFor80.er/_x1_f1.er/data.frameinfo
+D	ompFor80.er/_x1_f1.er/dyntext
+D	ompFor80.er/_x1_f1.er/jclasses
+D	ompFor80.er/_x1_f1.er/map.xml
+D	ompFor80.er/_x1_f1.er/overview
+D	ompFor80.er/_x1_f1.er/profile
+D	ompFor80.er/_x1_f1_x1.er/data.frameinfo
+D	ompFor80.er/_x1_f1_x1.er/dyntext
+D	ompFor80.er/_x1_f1_x1.er/er_archive.log
+D	ompFor80.er/_x1_f1_x1.er/jclasses
+D	ompFor80.er/_x1_f1_x1.er/log.xml
+D	ompFor80.er/_x1_f1_x1.er/map.xml
+D	ompFor80.er/_x1_f1_x1.er/overview
+D	ompFor80.er/_x1_f1_x1.er/profile
+D	ompFor80.er/archives/ShallowWaterMain_5uKiWSIGsf0
+D	ompFor80.er/archives/ld-2.31.so_XLwlkF_Wwof
+D	ompFor80.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+D	ompFor80.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+D	ompFor80.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+D	ompFor80.er/archives/libc-2.31.so_XLwlkF_Wwof
+D	ompFor80.er/archives/libcollector.so_kN_xj2QRtH5
+D	ompFor80.er/archives/libdl-2.31.so_XLwlkF_Wwof
+D	ompFor80.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+D	ompFor80.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+D	ompFor80.er/archives/libm-2.31.so_XLwlkF_Wwof
+D	ompFor80.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+D	ompFor80.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+D	ompFor80.er/archives/librt-2.31.so_XLwlkF_Wwof
+D	ompFor80.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+D	ompFor80.er/archives/make_UHyILZt997d
+D	ompFor80.er/archives/time_UHyILZt997d
+D	ompFor80.er/data.frameinfo
+D	ompFor80.er/dyntext
+D	ompFor80.er/er_archive.log
+D	ompFor80.er/jclasses
+D	ompFor80.er/map.xml
+D	ompFor80.er/overview
+D	ompFor80.er/profile
+D	ompfor80_1.er/_x1.er/data.frameinfo
+D	ompfor80_1.er/_x1.er/dyntext
+D	ompfor80_1.er/_x1.er/er_archive.log
+D	ompfor80_1.er/_x1.er/jclasses
+D	ompfor80_1.er/_x1.er/log.xml
+D	ompfor80_1.er/_x1.er/map.xml
+D	ompfor80_1.er/_x1.er/overview
+D	ompfor80_1.er/_x1.er/profile
+D	ompfor80_1.er/_x1_f1.er/data.frameinfo
+D	ompfor80_1.er/_x1_f1.er/dyntext
+D	ompfor80_1.er/_x1_f1.er/jclasses
+D	ompfor80_1.er/_x1_f1.er/log.xml
+D	ompfor80_1.er/_x1_f1.er/map.xml
+D	ompfor80_1.er/_x1_f1.er/overview
+D	ompfor80_1.er/_x1_f1.er/profile
+D	ompfor80_1.er/_x1_f1_x1.er/data.frameinfo
+D	ompfor80_1.er/_x1_f1_x1.er/dyntext
+D	ompfor80_1.er/_x1_f1_x1.er/er_archive.log
+D	ompfor80_1.er/_x1_f1_x1.er/jclasses
+D	ompfor80_1.er/_x1_f1_x1.er/overview
+D	ompfor80_1.er/_x1_f1_x1.er/profile
+D	ompfor80_1.er/archives/ShallowWaterMain_5uKiWSIGsf0
+D	ompfor80_1.er/archives/ld-2.31.so_XLwlkF_Wwof
+D	ompfor80_1.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+D	ompfor80_1.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+D	ompfor80_1.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+D	ompfor80_1.er/archives/libc-2.31.so_XLwlkF_Wwof
+D	ompfor80_1.er/archives/libcollector.so_kN_xj2QRtH5
+D	ompfor80_1.er/archives/libdl-2.31.so_XLwlkF_Wwof
+D	ompfor80_1.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+D	ompfor80_1.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+D	ompfor80_1.er/archives/libm-2.31.so_XLwlkF_Wwof
+D	ompfor80_1.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+D	ompfor80_1.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+D	ompfor80_1.er/archives/librt-2.31.so_XLwlkF_Wwof
+D	ompfor80_1.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+D	ompfor80_1.er/archives/make_UHyILZt997d
+D	ompfor80_1.er/archives/time_UHyILZt997d
+D	ompfor80_1.er/data.frameinfo
+D	ompfor80_1.er/dyntext
+D	ompfor80_1.er/er_archive.log
+D	ompfor80_1.er/jclasses
+D	ompfor80_1.er/log.xml
+D	ompfor80_1.er/map.xml
+D	ompfor80_1.er/overview
+D	ompfor80_1.er/profile
+D	ompfor80_4_1.er/_x1.er/data.frameinfo
+D	ompfor80_4_1.er/_x1.er/dyntext
+D	ompfor80_4_1.er/_x1.er/er_archive.log
+D	ompfor80_4_1.er/_x1.er/jclasses
+D	ompfor80_4_1.er/_x1.er/map.xml
+D	ompfor80_4_1.er/_x1.er/overview
+D	ompfor80_4_1.er/_x1.er/profile
+D	ompfor80_4_1.er/_x1_f1.er/data.frameinfo
+D	ompfor80_4_1.er/_x1_f1.er/dyntext
+D	ompfor80_4_1.er/_x1_f1.er/jclasses
+D	ompfor80_4_1.er/_x1_f1.er/log.xml
+D	ompfor80_4_1.er/_x1_f1.er/map.xml
+D	ompfor80_4_1.er/_x1_f1.er/overview
+D	ompfor80_4_1.er/_x1_f1.er/profile
+D	ompfor80_4_1.er/_x1_f1_x1.er/data.frameinfo
+D	ompfor80_4_1.er/_x1_f1_x1.er/dyntext
+D	ompfor80_4_1.er/_x1_f1_x1.er/er_archive.log
+D	ompfor80_4_1.er/_x1_f1_x1.er/jclasses
+D	ompfor80_4_1.er/_x1_f1_x1.er/log.xml
+D	ompfor80_4_1.er/_x1_f1_x1.er/overview
+D	ompfor80_4_1.er/archives/ShallowWaterMain_5uKiWSIGsf0
+D	ompfor80_4_1.er/archives/ld-2.31.so_XLwlkF_Wwof
+D	ompfor80_4_1.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+D	ompfor80_4_1.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+D	ompfor80_4_1.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+D	ompfor80_4_1.er/archives/libc-2.31.so_XLwlkF_Wwof
+D	ompfor80_4_1.er/archives/libcollector.so_kN_xj2QRtH5
+D	ompfor80_4_1.er/archives/libdl-2.31.so_XLwlkF_Wwof
+D	ompfor80_4_1.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+D	ompfor80_4_1.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+D	ompfor80_4_1.er/archives/libgomp.so.1.0.0_dnWuQRcLhw9
+D	ompfor80_4_1.er/archives/libm-2.31.so_XLwlkF_Wwof
+D	ompfor80_4_1.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+D	ompfor80_4_1.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+D	ompfor80_4_1.er/archives/librt-2.31.so_XLwlkF_Wwof
+D	ompfor80_4_1.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+D	ompfor80_4_1.er/archives/make_UHyILZt997d
+D	ompfor80_4_1.er/archives/time_UHyILZt997d
+D	ompfor80_4_1.er/data.frameinfo
+D	ompfor80_4_1.er/dyntext
+D	ompfor80_4_1.er/er_archive.log
+D	ompfor80_4_1.er/jclasses
+D	ompfor80_4_1.er/log.xml
+D	ompfor80_4_1.er/overview
+D	ompfor80_4_1.er/profile
+R100	OMPTest4.er/data.frameinfo	optfor842.er/_x1.er/data.frameinfo
+A	optfor842.er/_x1.er/dyntext
+A	optfor842.er/_x1.er/er_archive.log
+R100	OMPTest4.er/jclasses	optfor842.er/_x1.er/jclasses
+R096	OMPTest4.er/_x1.er/log.xml	optfor842.er/_x1.er/log.xml
+R092	3.er/_x1.er/map.xml	optfor842.er/_x1.er/map.xml
+A	optfor842.er/_x1.er/overview
+R100	OMPTest4.er/profile	optfor842.er/_x1.er/profile
+R100	OMPTest5.er/_x1.er/data.frameinfo	optfor842.er/_x1_f1.er/data.frameinfo
+R100	OMPTest5.er/_x1_f1.er/dyntext	optfor842.er/_x1_f1.er/dyntext
+R100	OMPTest5.er/_x1.er/jclasses	optfor842.er/_x1_f1.er/jclasses
+R097	test.1.er/_x1_f1.er/log.xml	optfor842.er/_x1_f1.er/log.xml
+R092	OMPTest5.er/_x1_f1.er/map.xml	optfor842.er/_x1_f1.er/map.xml
+R050	3.er/_x1_f1.er/overview	optfor842.er/_x1_f1.er/overview
+R100	OMPTest5.er/_x1.er/profile	optfor842.er/_x1_f1.er/profile
+R086	test11.er/_x1_f1_x1.er/log.xml	optfor842.er/_x1_f1_x1.er/data.frameinfo
+A	optfor842.er/_x1_f1_x1.er/dyntext
+A	optfor842.er/_x1_f1_x1.er/er_archive.log
+R100	OMPTest5.er/_x1_f1.er/jclasses	optfor842.er/_x1_f1_x1.er/jclasses
+R096	test.1.er/_x1_f1_x1.er/log.xml	optfor842.er/_x1_f1_x1.er/log.xml
+R083	ompfor80_1.er/_x1_f1_x1.er/map.xml	optfor842.er/_x1_f1_x1.er/map.xml
+A	optfor842.er/_x1_f1_x1.er/overview
+R090	ompfor80_4_1.er/_x1_f1_x1.er/profile	optfor842.er/_x1_f1_x1.er/profile
+R100	OMPTest4.er/archives/ShallowWaterMain_5uKiWSIGsf0	optfor842.er/archives/ShallowWaterMain_5uKiWSIGsf0
+R100	OMPTest4.er/archives/ld-2.31.so_XLwlkF_Wwof	optfor842.er/archives/ld-2.31.so_XLwlkF_Wwof
+R100	OMPTest5.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9	optfor842.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+R100	OMPTest5.er/archives/libblas.so.3.10.3_IiHvjNbM48a	optfor842.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+R100	OMPTest5.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9	optfor842.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+R100	OMPTest4.er/archives/libc-2.31.so_XLwlkF_Wwof	optfor842.er/archives/libc-2.31.so_XLwlkF_Wwof
+R100	OMPTest4.er/archives/libcollector.so_kN_xj2QRtH5	optfor842.er/archives/libcollector.so_kN_xj2QRtH5
+R100	OMPTest4.er/archives/libdl-2.31.so_XLwlkF_Wwof	optfor842.er/archives/libdl-2.31.so_XLwlkF_Wwof
+R100	OMPTest5.er/archives/libgcc_s.so.1_XLwlkF_Wwof	optfor842.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+R100	OMPTest5.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9	optfor842.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+R100	ompfor80_1.er/archives/libgomp.so.1.0.0_dnWuQRcLhw9	optfor842.er/archives/libgomp.so.1.0.0_dnWuQRcLhw9
+R100	OMPTest5.er/archives/libm-2.31.so_XLwlkF_Wwof	optfor842.er/archives/libm-2.31.so_XLwlkF_Wwof
+R100	OMPTest4.er/archives/libpthread-2.31.so_XLwlkF_Wwof	optfor842.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+R100	OMPTest5.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9	optfor842.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+R100	OMPTest4.er/archives/librt-2.31.so_XLwlkF_Wwof	optfor842.er/archives/librt-2.31.so_XLwlkF_Wwof
+R100	OMPTest5.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9	optfor842.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+R100	OMPTest4.er/archives/make_UHyILZt997d	optfor842.er/archives/make_UHyILZt997d
+R100	OMPTest5.er/archives/time_UHyILZt997d	optfor842.er/archives/time_UHyILZt997d
+R100	OMPTest5.er/_x1_f1.er/data.frameinfo	optfor842.er/data.frameinfo
+A	optfor842.er/dyntext
+A	optfor842.er/er_archive.log
+R100	OMPTest5.er/_x1_f1_x1.er/jclasses	optfor842.er/jclasses
+R096	ompFor80.er/log.xml	optfor842.er/log.xml
+R092	ompfor80_4_1.er/map.xml	optfor842.er/map.xml
+A	optfor842.er/overview
+R100	OMPTest5.er/_x1_f1.er/profile	optfor842.er/profile
+M	output.txt
+A	repository.log
+D	test.1.er/_x1.er/data.frameinfo
+D	test.1.er/_x1.er/dyntext
+D	test.1.er/_x1.er/er_archive.log
+D	test.1.er/_x1.er/jclasses
+D	test.1.er/_x1.er/map.xml
+D	test.1.er/_x1.er/overview
+D	test.1.er/_x1.er/profile
+D	test.1.er/_x1_f1.er/data.frameinfo
+D	test.1.er/_x1_f1.er/dyntext
+D	test.1.er/_x1_f1.er/jclasses
+D	test.1.er/_x1_f1.er/profile
+D	test.1.er/_x1_f1_x1.er/data.frameinfo
+D	test.1.er/_x1_f1_x1.er/dyntext
+D	test.1.er/_x1_f1_x1.er/er_archive.log
+D	test.1.er/_x1_f1_x1.er/jclasses
+D	test.1.er/_x1_f1_x1.er/overview
+D	test.1.er/_x1_f1_x1.er/profile
+D	test.1.er/archives/ld-2.31.so_XLwlkF_Wwof
+D	test.1.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+D	test.1.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+D	test.1.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+D	test.1.er/archives/libc-2.31.so_XLwlkF_Wwof
+D	test.1.er/archives/libcollector.so_kN_xj2QRtH5
+D	test.1.er/archives/libdl-2.31.so_XLwlkF_Wwof
+D	test.1.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+D	test.1.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+D	test.1.er/archives/libgomp.so.1.0.0_dnWuQRcLhw9
+D	test.1.er/archives/libm-2.31.so_XLwlkF_Wwof
+D	test.1.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+D	test.1.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+D	test.1.er/archives/librt-2.31.so_XLwlkF_Wwof
+D	test.1.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+D	test.1.er/archives/make_UHyILZt997d
+D	test.1.er/archives/time_UHyILZt997d
+D	test.1.er/data.frameinfo
+D	test.1.er/dyntext
+D	test.1.er/er_archive.log
+D	test.1.er/jclasses
+D	test.1.er/log.xml
+D	test.1.er/map.xml
+D	test.1.er/overview
+D	test.1.er/profile
+D	test11.er/_x1.er/data.frameinfo
+D	test11.er/_x1.er/dyntext
+D	test11.er/_x1.er/er_archive.log
+D	test11.er/_x1.er/jclasses
+D	test11.er/_x1.er/log.xml
+D	test11.er/_x1.er/map.xml
+D	test11.er/_x1.er/overview
+D	test11.er/_x1.er/profile
+D	test11.er/_x1_f1.er/data.frameinfo
+D	test11.er/_x1_f1.er/dyntext
+D	test11.er/_x1_f1.er/jclasses
+D	test11.er/_x1_f1.er/log.xml
+D	test11.er/_x1_f1.er/map.xml
+D	test11.er/_x1_f1.er/overview
+D	test11.er/_x1_f1.er/profile
+D	test11.er/_x1_f1_x1.er/dyntext
+D	test11.er/_x1_f1_x1.er/er_archive.log
+D	test11.er/_x1_f1_x1.er/jclasses
+D	test11.er/_x1_f1_x1.er/map.xml
+D	test11.er/_x1_f1_x1.er/overview
+D	test11.er/_x1_f1_x1.er/profile
+D	test11.er/archives/ShallowWaterMain_5uKiWSIGsf0
+D	test11.er/archives/ld-2.31.so_XLwlkF_Wwof
+D	test11.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+D	test11.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+D	test11.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+D	test11.er/archives/libc-2.31.so_XLwlkF_Wwof
+D	test11.er/archives/libcollector.so_kN_xj2QRtH5
+D	test11.er/archives/libdl-2.31.so_XLwlkF_Wwof
+D	test11.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+D	test11.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+D	test11.er/archives/libm-2.31.so_XLwlkF_Wwof
+D	test11.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+D	test11.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+D	test11.er/archives/librt-2.31.so_XLwlkF_Wwof
+D	test11.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+D	test11.er/archives/make_UHyILZt997d
+D	test11.er/archives/time_UHyILZt997d
+D	test11.er/data.frameinfo
+D	test11.er/dyntext
+D	test11.er/er_archive.log
+D	test11.er/jclasses
+D	test11.er/log.xml
+D	test11.er/map.xml
+D	test11.er/overview
+D	test11.er/profile
+M	thread_1_BLAS.txt
+A	thread_20_BLAS.txt
+M	thread_2_BLAS.txt
+M	thread_3_BLAS.txt
+M	thread_40_BLAS.txt
+M	thread_4_BLAS.txt
+M	thread_9_BLAS.txt
+A	thread__BLAS.txt
+
+commit d122336d2233957e09613b441ace8070e17bc7f4
+Author: WeihanLee <weihan.lee@imperial.ac.uk>
+Date:   Mon Mar 20 06:38:34 2023 +0000
+
+    Everything working
+
+A	Case_1.png
+A	Case_2.png
+A	Case_3.png
+A	Case_4.png
+M	Makefile
+A	OMPTest4.er/_x1.er/data.frameinfo
+A	OMPTest4.er/_x1.er/dyntext
+A	OMPTest4.er/_x1.er/er_archive.log
+A	OMPTest4.er/_x1.er/jclasses
+A	OMPTest4.er/_x1.er/log.xml
+A	OMPTest4.er/_x1.er/map.xml
+A	OMPTest4.er/_x1.er/overview
+A	OMPTest4.er/_x1.er/profile
+A	OMPTest4.er/_x1_f1.er/data.frameinfo
+A	OMPTest4.er/_x1_f1.er/dyntext
+A	OMPTest4.er/_x1_f1.er/jclasses
+A	OMPTest4.er/_x1_f1.er/log.xml
+A	OMPTest4.er/_x1_f1.er/map.xml
+A	OMPTest4.er/_x1_f1.er/overview
+A	OMPTest4.er/_x1_f1.er/profile
+A	OMPTest4.er/_x1_f1_x1.er/data.frameinfo
+A	OMPTest4.er/_x1_f1_x1.er/dyntext
+A	OMPTest4.er/_x1_f1_x1.er/er_archive.log
+A	OMPTest4.er/_x1_f1_x1.er/jclasses
+A	OMPTest4.er/_x1_f1_x1.er/log.xml
+A	OMPTest4.er/_x1_f1_x1.er/map.xml
+A	OMPTest4.er/_x1_f1_x1.er/overview
+A	OMPTest4.er/_x1_f1_x1.er/profile
+A	OMPTest4.er/archives/ShallowWaterMain_5uKiWSIGsf0
+A	OMPTest4.er/archives/ld-2.31.so_XLwlkF_Wwof
+A	OMPTest4.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+A	OMPTest4.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+A	OMPTest4.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+A	OMPTest4.er/archives/libc-2.31.so_XLwlkF_Wwof
+A	OMPTest4.er/archives/libcollector.so_kN_xj2QRtH5
+A	OMPTest4.er/archives/libdl-2.31.so_XLwlkF_Wwof
+A	OMPTest4.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+A	OMPTest4.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+A	OMPTest4.er/archives/libgomp.so.1.0.0_dnWuQRcLhw9
+A	OMPTest4.er/archives/libm-2.31.so_XLwlkF_Wwof
+A	OMPTest4.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+A	OMPTest4.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+A	OMPTest4.er/archives/librt-2.31.so_XLwlkF_Wwof
+A	OMPTest4.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+A	OMPTest4.er/archives/make_UHyILZt997d
+A	OMPTest4.er/archives/time_UHyILZt997d
+A	OMPTest4.er/data.frameinfo
+A	OMPTest4.er/dyntext
+A	OMPTest4.er/er_archive.log
+A	OMPTest4.er/jclasses
+A	OMPTest4.er/log.xml
+A	OMPTest4.er/map.xml
+A	OMPTest4.er/overview
+A	OMPTest4.er/profile
+A	OMPTest5.er/_x1.er/data.frameinfo
+A	OMPTest5.er/_x1.er/dyntext
+A	OMPTest5.er/_x1.er/er_archive.log
+A	OMPTest5.er/_x1.er/jclasses
+A	OMPTest5.er/_x1.er/log.xml
+A	OMPTest5.er/_x1.er/map.xml
+A	OMPTest5.er/_x1.er/overview
+A	OMPTest5.er/_x1.er/profile
+A	OMPTest5.er/_x1_f1.er/data.frameinfo
+A	OMPTest5.er/_x1_f1.er/dyntext
+A	OMPTest5.er/_x1_f1.er/jclasses
+A	OMPTest5.er/_x1_f1.er/log.xml
+A	OMPTest5.er/_x1_f1.er/map.xml
+A	OMPTest5.er/_x1_f1.er/overview
+A	OMPTest5.er/_x1_f1.er/profile
+A	OMPTest5.er/_x1_f1_x1.er/data.frameinfo
+A	OMPTest5.er/_x1_f1_x1.er/dyntext
+A	OMPTest5.er/_x1_f1_x1.er/er_archive.log
+A	OMPTest5.er/_x1_f1_x1.er/jclasses
+A	OMPTest5.er/_x1_f1_x1.er/log.xml
+A	OMPTest5.er/_x1_f1_x1.er/map.xml
+A	OMPTest5.er/_x1_f1_x1.er/overview
+A	OMPTest5.er/_x1_f1_x1.er/profile
+A	OMPTest5.er/archives/ShallowWaterMain_5uKiWSIGsf0
+A	OMPTest5.er/archives/ld-2.31.so_XLwlkF_Wwof
+A	OMPTest5.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+A	OMPTest5.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+A	OMPTest5.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+A	OMPTest5.er/archives/libc-2.31.so_XLwlkF_Wwof
+A	OMPTest5.er/archives/libcollector.so_kN_xj2QRtH5
+A	OMPTest5.er/archives/libdl-2.31.so_XLwlkF_Wwof
+A	OMPTest5.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+A	OMPTest5.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+A	OMPTest5.er/archives/libgomp.so.1.0.0_dnWuQRcLhw9
+A	OMPTest5.er/archives/libm-2.31.so_XLwlkF_Wwof
+A	OMPTest5.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+A	OMPTest5.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+A	OMPTest5.er/archives/librt-2.31.so_XLwlkF_Wwof
+A	OMPTest5.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+A	OMPTest5.er/archives/make_UHyILZt997d
+A	OMPTest5.er/archives/time_UHyILZt997d
+A	OMPTest5.er/data.frameinfo
+A	OMPTest5.er/dyntext
+A	OMPTest5.er/er_archive.log
+A	OMPTest5.er/jclasses
+A	OMPTest5.er/log.xml
+A	OMPTest5.er/map.xml
+A	OMPTest5.er/overview
+A	OMPTest5.er/profile
+M	ShallowWaterMain
+M	ShallowWaterMain.cpp
+M	ShallowWaterMain.o
+A	nth.slr
+A	ompFor80.er/_x1.er/data.frameinfo
+A	ompFor80.er/_x1.er/dyntext
+A	ompFor80.er/_x1.er/er_archive.log
+A	ompFor80.er/_x1.er/jclasses
+A	ompFor80.er/_x1.er/log.xml
+A	ompFor80.er/_x1.er/map.xml
+A	ompFor80.er/_x1.er/overview
+A	ompFor80.er/_x1.er/profile
+A	ompFor80.er/_x1_f1.er/data.frameinfo
+A	ompFor80.er/_x1_f1.er/dyntext
+A	ompFor80.er/_x1_f1.er/jclasses
+A	ompFor80.er/_x1_f1.er/log.xml
+A	ompFor80.er/_x1_f1.er/map.xml
+A	ompFor80.er/_x1_f1.er/overview
+A	ompFor80.er/_x1_f1.er/profile
+A	ompFor80.er/_x1_f1_x1.er/data.frameinfo
+A	ompFor80.er/_x1_f1_x1.er/dyntext
+A	ompFor80.er/_x1_f1_x1.er/er_archive.log
+A	ompFor80.er/_x1_f1_x1.er/jclasses
+A	ompFor80.er/_x1_f1_x1.er/log.xml
+A	ompFor80.er/_x1_f1_x1.er/map.xml
+A	ompFor80.er/_x1_f1_x1.er/overview
+A	ompFor80.er/_x1_f1_x1.er/profile
+A	ompFor80.er/archives/ShallowWaterMain_5uKiWSIGsf0
+A	ompFor80.er/archives/ld-2.31.so_XLwlkF_Wwof
+A	ompFor80.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+A	ompFor80.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+A	ompFor80.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+A	ompFor80.er/archives/libc-2.31.so_XLwlkF_Wwof
+A	ompFor80.er/archives/libcollector.so_kN_xj2QRtH5
+A	ompFor80.er/archives/libdl-2.31.so_XLwlkF_Wwof
+A	ompFor80.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+A	ompFor80.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+A	ompFor80.er/archives/libgomp.so.1.0.0_dnWuQRcLhw9
+A	ompFor80.er/archives/libm-2.31.so_XLwlkF_Wwof
+A	ompFor80.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+A	ompFor80.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+A	ompFor80.er/archives/librt-2.31.so_XLwlkF_Wwof
+A	ompFor80.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+A	ompFor80.er/archives/make_UHyILZt997d
+A	ompFor80.er/archives/time_UHyILZt997d
+A	ompFor80.er/data.frameinfo
+A	ompFor80.er/dyntext
+A	ompFor80.er/er_archive.log
+A	ompFor80.er/jclasses
+A	ompFor80.er/log.xml
+A	ompFor80.er/map.xml
+A	ompFor80.er/overview
+A	ompFor80.er/profile
+A	ompfor80_1.er/_x1.er/data.frameinfo
+A	ompfor80_1.er/_x1.er/dyntext
+A	ompfor80_1.er/_x1.er/er_archive.log
+A	ompfor80_1.er/_x1.er/jclasses
+A	ompfor80_1.er/_x1.er/log.xml
+A	ompfor80_1.er/_x1.er/map.xml
+A	ompfor80_1.er/_x1.er/overview
+A	ompfor80_1.er/_x1.er/profile
+A	ompfor80_1.er/_x1_f1.er/data.frameinfo
+A	ompfor80_1.er/_x1_f1.er/dyntext
+A	ompfor80_1.er/_x1_f1.er/jclasses
+A	ompfor80_1.er/_x1_f1.er/log.xml
+A	ompfor80_1.er/_x1_f1.er/map.xml
+A	ompfor80_1.er/_x1_f1.er/overview
+A	ompfor80_1.er/_x1_f1.er/profile
+A	ompfor80_1.er/_x1_f1_x1.er/data.frameinfo
+A	ompfor80_1.er/_x1_f1_x1.er/dyntext
+A	ompfor80_1.er/_x1_f1_x1.er/er_archive.log
+A	ompfor80_1.er/_x1_f1_x1.er/jclasses
+A	ompfor80_1.er/_x1_f1_x1.er/log.xml
+A	ompfor80_1.er/_x1_f1_x1.er/map.xml
+A	ompfor80_1.er/_x1_f1_x1.er/overview
+A	ompfor80_1.er/_x1_f1_x1.er/profile
+A	ompfor80_1.er/archives/ShallowWaterMain_5uKiWSIGsf0
+A	ompfor80_1.er/archives/ld-2.31.so_XLwlkF_Wwof
+A	ompfor80_1.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+A	ompfor80_1.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+A	ompfor80_1.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+A	ompfor80_1.er/archives/libc-2.31.so_XLwlkF_Wwof
+A	ompfor80_1.er/archives/libcollector.so_kN_xj2QRtH5
+A	ompfor80_1.er/archives/libdl-2.31.so_XLwlkF_Wwof
+A	ompfor80_1.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+A	ompfor80_1.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+A	ompfor80_1.er/archives/libgomp.so.1.0.0_dnWuQRcLhw9
+A	ompfor80_1.er/archives/libm-2.31.so_XLwlkF_Wwof
+A	ompfor80_1.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+A	ompfor80_1.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+A	ompfor80_1.er/archives/librt-2.31.so_XLwlkF_Wwof
+A	ompfor80_1.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+A	ompfor80_1.er/archives/make_UHyILZt997d
+A	ompfor80_1.er/archives/time_UHyILZt997d
+A	ompfor80_1.er/data.frameinfo
+A	ompfor80_1.er/dyntext
+A	ompfor80_1.er/er_archive.log
+A	ompfor80_1.er/jclasses
+A	ompfor80_1.er/log.xml
+A	ompfor80_1.er/map.xml
+A	ompfor80_1.er/overview
+A	ompfor80_1.er/profile
+A	ompfor80_4_1.er/_x1.er/data.frameinfo
+A	ompfor80_4_1.er/_x1.er/dyntext
+A	ompfor80_4_1.er/_x1.er/er_archive.log
+A	ompfor80_4_1.er/_x1.er/jclasses
+A	ompfor80_4_1.er/_x1.er/log.xml
+A	ompfor80_4_1.er/_x1.er/map.xml
+A	ompfor80_4_1.er/_x1.er/overview
+A	ompfor80_4_1.er/_x1.er/profile
+A	ompfor80_4_1.er/_x1_f1.er/data.frameinfo
+A	ompfor80_4_1.er/_x1_f1.er/dyntext
+A	ompfor80_4_1.er/_x1_f1.er/jclasses
+A	ompfor80_4_1.er/_x1_f1.er/log.xml
+A	ompfor80_4_1.er/_x1_f1.er/map.xml
+A	ompfor80_4_1.er/_x1_f1.er/overview
+A	ompfor80_4_1.er/_x1_f1.er/profile
+A	ompfor80_4_1.er/_x1_f1_x1.er/data.frameinfo
+A	ompfor80_4_1.er/_x1_f1_x1.er/dyntext
+A	ompfor80_4_1.er/_x1_f1_x1.er/er_archive.log
+A	ompfor80_4_1.er/_x1_f1_x1.er/jclasses
+A	ompfor80_4_1.er/_x1_f1_x1.er/log.xml
+A	ompfor80_4_1.er/_x1_f1_x1.er/map.xml
+A	ompfor80_4_1.er/_x1_f1_x1.er/overview
+A	ompfor80_4_1.er/_x1_f1_x1.er/profile
+A	ompfor80_4_1.er/archives/ShallowWaterMain_5uKiWSIGsf0
+A	ompfor80_4_1.er/archives/ld-2.31.so_XLwlkF_Wwof
+A	ompfor80_4_1.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+A	ompfor80_4_1.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+A	ompfor80_4_1.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+A	ompfor80_4_1.er/archives/libc-2.31.so_XLwlkF_Wwof
+A	ompfor80_4_1.er/archives/libcollector.so_kN_xj2QRtH5
+A	ompfor80_4_1.er/archives/libdl-2.31.so_XLwlkF_Wwof
+A	ompfor80_4_1.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+A	ompfor80_4_1.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+A	ompfor80_4_1.er/archives/libgomp.so.1.0.0_dnWuQRcLhw9
+A	ompfor80_4_1.er/archives/libm-2.31.so_XLwlkF_Wwof
+A	ompfor80_4_1.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+A	ompfor80_4_1.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+A	ompfor80_4_1.er/archives/librt-2.31.so_XLwlkF_Wwof
+A	ompfor80_4_1.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+A	ompfor80_4_1.er/archives/make_UHyILZt997d
+A	ompfor80_4_1.er/archives/time_UHyILZt997d
+A	ompfor80_4_1.er/data.frameinfo
+A	ompfor80_4_1.er/dyntext
+A	ompfor80_4_1.er/er_archive.log
+A	ompfor80_4_1.er/jclasses
+A	ompfor80_4_1.er/log.xml
+A	ompfor80_4_1.er/map.xml
+A	ompfor80_4_1.er/overview
+A	ompfor80_4_1.er/profile
+M	output.txt
+A	plot.dat
+A	test.1.er/_x1.er/data.frameinfo
+A	test.1.er/_x1.er/dyntext
+A	test.1.er/_x1.er/er_archive.log
+A	test.1.er/_x1.er/jclasses
+A	test.1.er/_x1.er/log.xml
+A	test.1.er/_x1.er/map.xml
+A	test.1.er/_x1.er/overview
+A	test.1.er/_x1.er/profile
+A	test.1.er/_x1_f1.er/data.frameinfo
+A	test.1.er/_x1_f1.er/dyntext
+A	test.1.er/_x1_f1.er/jclasses
+A	test.1.er/_x1_f1.er/log.xml
+A	test.1.er/_x1_f1.er/map.xml
+A	test.1.er/_x1_f1.er/overview
+A	test.1.er/_x1_f1.er/profile
+A	test.1.er/_x1_f1_x1.er/data.frameinfo
+A	test.1.er/_x1_f1_x1.er/dyntext
+A	test.1.er/_x1_f1_x1.er/er_archive.log
+A	test.1.er/_x1_f1_x1.er/jclasses
+A	test.1.er/_x1_f1_x1.er/log.xml
+A	test.1.er/_x1_f1_x1.er/map.xml
+A	test.1.er/_x1_f1_x1.er/overview
+A	test.1.er/_x1_f1_x1.er/profile
+A	test.1.er/archives/ShallowWaterMain_5uKiWSIGsf0
+A	test.1.er/archives/ld-2.31.so_XLwlkF_Wwof
+A	test.1.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+A	test.1.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+A	test.1.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+A	test.1.er/archives/libc-2.31.so_XLwlkF_Wwof
+A	test.1.er/archives/libcollector.so_kN_xj2QRtH5
+A	test.1.er/archives/libdl-2.31.so_XLwlkF_Wwof
+A	test.1.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+A	test.1.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+A	test.1.er/archives/libgomp.so.1.0.0_dnWuQRcLhw9
+A	test.1.er/archives/libm-2.31.so_XLwlkF_Wwof
+A	test.1.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+A	test.1.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+A	test.1.er/archives/librt-2.31.so_XLwlkF_Wwof
+A	test.1.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+A	test.1.er/archives/make_UHyILZt997d
+A	test.1.er/archives/time_UHyILZt997d
+A	test.1.er/data.frameinfo
+A	test.1.er/dyntext
+A	test.1.er/er_archive.log
+A	test.1.er/jclasses
+A	test.1.er/log.xml
+A	test.1.er/map.xml
+A	test.1.er/overview
+A	test.1.er/profile
+A	thread_1.txt
+A	thread_10.txt
+A	thread_10_BLAS.txt
+A	thread_11.txt
+A	thread_11_BLAS.txt
+A	thread_12.txt
+A	thread_12_BLAS.txt
+A	thread_15.txt
+A	thread_15_BLAS.txt
+A	thread_18.txt
+A	thread_18_BLAS.txt
+A	thread_1_BLAS.txt
+A	thread_2.txt
+A	thread_21_BLAS.txt
+A	thread_24.txt
+A	thread_24_BLAS.txt
+A	thread_27_BLAS.txt
+A	thread_2_BLAS.txt
+A	thread_3.txt
+A	thread_30.txt
+A	thread_30_BLAS.txt
+A	thread_33.txt
+A	thread_33_BLAS.txt
+A	thread_36.txt
+A	thread_36_BLAS.txt
+A	thread_39.txt
+A	thread_39_BLAS.txt
+A	thread_3_BLAS.txt
+A	thread_4.txt
+A	thread_40.txt
+A	thread_40_BLAS.txt
+A	thread_4_BLAS.txt
+A	thread_5.txt
+A	thread_5_BLAS.txt
+A	thread_6.txt
+A	thread_6_BLAS.txt
+A	thread_7.txt
+A	thread_7_BLAS.txt
+A	thread_8.txt
+A	thread_8_BLAS.txt
+A	thread_9.txt
+A	thread_9_BLAS.txt
+
+commit 7f991269a92841cb2a0f47d9acf6d64ac3827aea
+Author: WeihanLee <weihan.lee@imperial.ac.uk>
+Date:   Sun Mar 19 19:25:00 2023 +0000
+
+    working with openmp
+
+A	1.er/archives/ld-2.31.so_XLwlkF_Wwof
+A	1.er/archives/libc-2.31.so_XLwlkF_Wwof
+A	1.er/archives/libcollector.so_kN_xj2QRtH5
+A	1.er/archives/libdl-2.31.so_XLwlkF_Wwof
+A	1.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+A	1.er/archives/librt-2.31.so_XLwlkF_Wwof
+A	1.er/archives/make_UHyILZt997d
+A	1.er/data.frameinfo
+A	1.er/dyntext
+A	1.er/er_archive.log
+A	1.er/jclasses
+A	1.er/log.xml
+A	1.er/map.xml
+A	1.er/overview
+A	1.er/profile
+A	2.er/_x1.er/data.frameinfo
+A	2.er/_x1.er/dyntext
+A	2.er/_x1.er/er_archive.log
+A	2.er/_x1.er/jclasses
+A	2.er/_x1.er/log.xml
+A	2.er/_x1.er/map.xml
+A	2.er/_x1.er/overview
+A	2.er/_x1.er/profile
+A	2.er/_x1_f1.er/data.frameinfo
+A	2.er/_x1_f1.er/dyntext
+A	2.er/_x1_f1.er/jclasses
+A	2.er/_x1_f1.er/log.xml
+A	2.er/_x1_f1.er/map.xml
+A	2.er/_x1_f1.er/overview
+A	2.er/_x1_f1.er/profile
+A	2.er/_x1_f1_x1.er/data.frameinfo
+A	2.er/_x1_f1_x1.er/dyntext
+A	2.er/_x1_f1_x1.er/er_archive.log
+A	2.er/_x1_f1_x1.er/jclasses
+A	2.er/_x1_f1_x1.er/log.xml
+A	2.er/_x1_f1_x1.er/map.xml
+A	2.er/_x1_f1_x1.er/overview
+A	2.er/_x1_f1_x1.er/profile
+A	2.er/archives/ShallowWaterMain_5uKiWSIGsf0
+A	2.er/archives/ld-2.31.so_XLwlkF_Wwof
+A	2.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+A	2.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+A	2.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+A	2.er/archives/libc-2.31.so_XLwlkF_Wwof
+A	2.er/archives/libcollector.so_kN_xj2QRtH5
+A	2.er/archives/libdl-2.31.so_XLwlkF_Wwof
+A	2.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+A	2.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+A	2.er/archives/libm-2.31.so_XLwlkF_Wwof
+A	2.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+A	2.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+A	2.er/archives/librt-2.31.so_XLwlkF_Wwof
+A	2.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+A	2.er/archives/make_UHyILZt997d
+A	2.er/archives/time_UHyILZt997d
+A	2.er/data.frameinfo
+A	2.er/dyntext
+A	2.er/er_archive.log
+A	2.er/jclasses
+A	2.er/log.xml
+A	2.er/map.xml
+A	2.er/overview
+A	2.er/profile
+A	3.er/_x1.er/data.frameinfo
+A	3.er/_x1.er/dyntext
+A	3.er/_x1.er/er_archive.log
+A	3.er/_x1.er/jclasses
+A	3.er/_x1.er/log.xml
+A	3.er/_x1.er/map.xml
+A	3.er/_x1.er/overview
+A	3.er/_x1.er/profile
+A	3.er/_x1_f1.er/data.frameinfo
+A	3.er/_x1_f1.er/dyntext
+A	3.er/_x1_f1.er/jclasses
+A	3.er/_x1_f1.er/log.xml
+A	3.er/_x1_f1.er/map.xml
+A	3.er/_x1_f1.er/overview
+A	3.er/_x1_f1.er/profile
+A	3.er/_x1_f1_x1.er/data.frameinfo
+A	3.er/_x1_f1_x1.er/dyntext
+A	3.er/_x1_f1_x1.er/er_archive.log
+A	3.er/_x1_f1_x1.er/jclasses
+A	3.er/_x1_f1_x1.er/log.xml
+A	3.er/_x1_f1_x1.er/map.xml
+A	3.er/_x1_f1_x1.er/overview
+A	3.er/_x1_f1_x1.er/profile
+A	3.er/archives/ShallowWaterMain_5uKiWSIGsf0
+A	3.er/archives/ld-2.31.so_XLwlkF_Wwof
+A	3.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+A	3.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+A	3.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+A	3.er/archives/libc-2.31.so_XLwlkF_Wwof
+A	3.er/archives/libcollector.so_kN_xj2QRtH5
+A	3.er/archives/libdl-2.31.so_XLwlkF_Wwof
+A	3.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+A	3.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+A	3.er/archives/libm-2.31.so_XLwlkF_Wwof
+A	3.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+A	3.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+A	3.er/archives/librt-2.31.so_XLwlkF_Wwof
+A	3.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+A	3.er/archives/make_UHyILZt997d
+A	3.er/archives/time_UHyILZt997d
+A	3.er/data.frameinfo
+A	3.er/dyntext
+A	3.er/er_archive.log
+A	3.er/jclasses
+A	3.er/log.xml
+A	3.er/map.xml
+A	3.er/overview
+A	3.er/profile
+M	HPC_CW.mk
+M	HPC_CW.project
+M	Makefile
+M	ShallowWater.cpp
+M	ShallowWater.h
+M	ShallowWater.o
+M	ShallowWaterMain
+M	ShallowWaterMain.cpp
+M	ShallowWaterMain.o
+M	output.txt
+A	test11.er/_x1.er/data.frameinfo
+A	test11.er/_x1.er/dyntext
+A	test11.er/_x1.er/er_archive.log
+A	test11.er/_x1.er/jclasses
+A	test11.er/_x1.er/log.xml
+A	test11.er/_x1.er/map.xml
+A	test11.er/_x1.er/overview
+A	test11.er/_x1.er/profile
+A	test11.er/_x1_f1.er/data.frameinfo
+A	test11.er/_x1_f1.er/dyntext
+A	test11.er/_x1_f1.er/jclasses
+A	test11.er/_x1_f1.er/log.xml
+A	test11.er/_x1_f1.er/map.xml
+A	test11.er/_x1_f1.er/overview
+A	test11.er/_x1_f1.er/profile
+A	test11.er/_x1_f1_x1.er/data.frameinfo
+A	test11.er/_x1_f1_x1.er/dyntext
+A	test11.er/_x1_f1_x1.er/er_archive.log
+A	test11.er/_x1_f1_x1.er/jclasses
+A	test11.er/_x1_f1_x1.er/log.xml
+A	test11.er/_x1_f1_x1.er/map.xml
+A	test11.er/_x1_f1_x1.er/overview
+A	test11.er/_x1_f1_x1.er/profile
+A	test11.er/archives/ShallowWaterMain_5uKiWSIGsf0
+A	test11.er/archives/ld-2.31.so_XLwlkF_Wwof
+A	test11.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+A	test11.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+A	test11.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+A	test11.er/archives/libc-2.31.so_XLwlkF_Wwof
+A	test11.er/archives/libcollector.so_kN_xj2QRtH5
+A	test11.er/archives/libdl-2.31.so_XLwlkF_Wwof
+A	test11.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+A	test11.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+A	test11.er/archives/libm-2.31.so_XLwlkF_Wwof
+A	test11.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+A	test11.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+A	test11.er/archives/librt-2.31.so_XLwlkF_Wwof
+A	test11.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+A	test11.er/archives/make_UHyILZt997d
+A	test11.er/archives/time_UHyILZt997d
+A	test11.er/data.frameinfo
+A	test11.er/dyntext
+A	test11.er/er_archive.log
+A	test11.er/jclasses
+A	test11.er/log.xml
+A	test11.er/map.xml
+A	test11.er/overview
+A	test11.er/profile
+
+commit a13be362949279ede435ff4b849ea545dfae70be
+Author: WeihanLee <weihan.lee@imperial.ac.uk>
+Date:   Sun Mar 19 03:09:24 2023 +0000
+
+    profiling2
+
+D	2.er/_x1.er/data.frameinfo
+D	2.er/_x1.er/dyntext
+D	2.er/_x1.er/er_archive.log
+D	2.er/_x1.er/jclasses
+D	2.er/_x1.er/log.xml
+D	2.er/_x1.er/map.xml
+D	2.er/_x1.er/overview
+D	2.er/_x1.er/profile
+D	2.er/_x1_f1.er/data.frameinfo
+D	2.er/_x1_f1.er/dyntext
+D	2.er/_x1_f1.er/jclasses
+D	2.er/_x1_f1.er/log.xml
+D	2.er/_x1_f1.er/map.xml
+D	2.er/_x1_f1.er/overview
+D	2.er/_x1_f1.er/profile
+D	2.er/_x1_f1_x1.er/data.frameinfo
+D	2.er/_x1_f1_x1.er/dyntext
+D	2.er/_x1_f1_x1.er/er_archive.log
+D	2.er/_x1_f1_x1.er/jclasses
+D	2.er/_x1_f1_x1.er/log.xml
+D	2.er/_x1_f1_x1.er/map.xml
+D	2.er/_x1_f1_x1.er/overview
+D	2.er/_x1_f1_x1.er/profile
+D	2.er/archives/ShallowWaterMain_5uKiWSIGsf0
+D	2.er/archives/ld-2.31.so_XLwlkF_Wwof
+D	2.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+D	2.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+D	2.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+D	2.er/archives/libc-2.31.so_XLwlkF_Wwof
+D	2.er/archives/libcollector.so_kN_xj2QRtH5
+D	2.er/archives/libdl-2.31.so_XLwlkF_Wwof
+D	2.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+D	2.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+D	2.er/archives/libm-2.31.so_XLwlkF_Wwof
+D	2.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+D	2.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+D	2.er/archives/librt-2.31.so_XLwlkF_Wwof
+D	2.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+D	2.er/archives/make_UHyILZt997d
+D	2.er/archives/time_UHyILZt997d
+D	2.er/data.frameinfo
+D	2.er/dyntext
+D	2.er/er_archive.log
+D	2.er/jclasses
+D	2.er/log.xml
+D	2.er/map.xml
+D	2.er/overview
+D	2.er/profile
+D	3.er/_x1.er/data.frameinfo
+D	3.er/_x1.er/dyntext
+D	3.er/_x1.er/er_archive.log
+D	3.er/_x1.er/jclasses
+D	3.er/_x1.er/log.xml
+D	3.er/_x1.er/map.xml
+D	3.er/_x1.er/overview
+D	3.er/_x1.er/profile
+D	3.er/_x1_f1.er/data.frameinfo
+D	3.er/_x1_f1.er/dyntext
+D	3.er/_x1_f1.er/jclasses
+D	3.er/_x1_f1.er/log.xml
+D	3.er/_x1_f1.er/map.xml
+D	3.er/_x1_f1.er/overview
+D	3.er/_x1_f1.er/profile
+D	3.er/_x1_f1_x1.er/data.frameinfo
+D	3.er/_x1_f1_x1.er/dyntext
+D	3.er/_x1_f1_x1.er/er_archive.log
+D	3.er/_x1_f1_x1.er/jclasses
+D	3.er/_x1_f1_x1.er/log.xml
+D	3.er/_x1_f1_x1.er/map.xml
+D	3.er/_x1_f1_x1.er/overview
+D	3.er/_x1_f1_x1.er/profile
+D	3.er/_x1_f2.er/data.frameinfo
+D	3.er/_x1_f2.er/dyntext
+D	3.er/_x1_f2.er/jclasses
+D	3.er/_x1_f2.er/log.xml
+D	3.er/_x1_f2.er/map.xml
+D	3.er/_x1_f2.er/overview
+D	3.er/_x1_f2.er/profile
+D	3.er/_x1_f2_x1.er/data.frameinfo
+D	3.er/_x1_f2_x1.er/dyntext
+D	3.er/_x1_f2_x1.er/er_archive.log
+D	3.er/_x1_f2_x1.er/jclasses
+D	3.er/_x1_f2_x1.er/log.xml
+D	3.er/_x1_f2_x1.er/map.xml
+D	3.er/_x1_f2_x1.er/overview
+D	3.er/_x1_f2_x1.er/profile
+D	3.er/_x2.er/data.frameinfo
+D	3.er/_x2.er/dyntext
+D	3.er/_x2.er/er_archive.log
+D	3.er/_x2.er/jclasses
+D	3.er/_x2.er/log.xml
+D	3.er/_x2.er/map.xml
+D	3.er/_x2.er/overview
+D	3.er/_x2.er/profile
+D	3.er/_x2_f1.er/data.frameinfo
+D	3.er/_x2_f1.er/dyntext
+D	3.er/_x2_f1.er/jclasses
+D	3.er/_x2_f1.er/log.xml
+D	3.er/_x2_f1.er/map.xml
+D	3.er/_x2_f1.er/overview
+D	3.er/_x2_f1.er/profile
+D	3.er/_x2_f1_x1.er/data.frameinfo
+D	3.er/_x2_f1_x1.er/dyntext
+D	3.er/_x2_f1_x1.er/er_archive.log
+D	3.er/_x2_f1_x1.er/jclasses
+D	3.er/_x2_f1_x1.er/log.xml
+D	3.er/_x2_f1_x1.er/map.xml
+D	3.er/_x2_f1_x1.er/overview
+D	3.er/_x2_f1_x1.er/profile
+D	3.er/_x2_f2.er/data.frameinfo
+D	3.er/_x2_f2.er/dyntext
+D	3.er/_x2_f2.er/jclasses
+D	3.er/_x2_f2.er/log.xml
+D	3.er/_x2_f2.er/map.xml
+D	3.er/_x2_f2.er/overview
+D	3.er/_x2_f2.er/profile
+D	3.er/_x2_f2_x1.er/data.frameinfo
+D	3.er/_x2_f2_x1.er/dyntext
+D	3.er/_x2_f2_x1.er/er_archive.log
+D	3.er/_x2_f2_x1.er/jclasses
+D	3.er/_x2_f2_x1.er/log.xml
+D	3.er/_x2_f2_x1.er/map.xml
+D	3.er/_x2_f2_x1.er/overview
+D	3.er/_x2_f2_x1.er/profile
+D	3.er/_x3.er/data.frameinfo
+D	3.er/_x3.er/dyntext
+D	3.er/_x3.er/er_archive.log
+D	3.er/_x3.er/jclasses
+D	3.er/_x3.er/log.xml
+D	3.er/_x3.er/map.xml
+D	3.er/_x3.er/overview
+D	3.er/_x3.er/profile
+D	3.er/_x3_f1.er/data.frameinfo
+D	3.er/_x3_f1.er/dyntext
+D	3.er/_x3_f1.er/jclasses
+D	3.er/_x3_f1.er/log.xml
+D	3.er/_x3_f1.er/map.xml
+D	3.er/_x3_f1.er/overview
+D	3.er/_x3_f1.er/profile
+D	3.er/_x3_f1_x1.er/data.frameinfo
+D	3.er/_x3_f1_x1.er/dyntext
+D	3.er/_x3_f1_x1.er/er_archive.log
+D	3.er/_x3_f1_x1.er/jclasses
+D	3.er/_x3_f1_x1.er/log.xml
+D	3.er/_x3_f1_x1.er/map.xml
+D	3.er/_x3_f1_x1.er/overview
+D	3.er/_x3_f1_x1.er/profile
+D	3.er/_x3_f1_x1_f1.er/data.frameinfo
+D	3.er/_x3_f1_x1_f1.er/dyntext
+D	3.er/_x3_f1_x1_f1.er/jclasses
+D	3.er/_x3_f1_x1_f1.er/log.xml
+D	3.er/_x3_f1_x1_f1.er/map.xml
+D	3.er/_x3_f1_x1_f1.er/overview
+D	3.er/_x3_f1_x1_f1.er/profile
+D	3.er/_x3_f1_x1_f1_x1.er/data.frameinfo
+D	3.er/_x3_f1_x1_f1_x1.er/dyntext
+D	3.er/_x3_f1_x1_f1_x1.er/er_archive.log
+D	3.er/_x3_f1_x1_f1_x1.er/jclasses
+D	3.er/_x3_f1_x1_f1_x1.er/log.xml
+D	3.er/_x3_f1_x1_f1_x1.er/map.xml
+D	3.er/_x3_f1_x1_f1_x1.er/overview
+D	3.er/_x3_f1_x1_f1_x1.er/profile
+D	3.er/_x4.er/data.frameinfo
+D	3.er/_x4.er/dyntext
+D	3.er/_x4.er/er_archive.log
+D	3.er/_x4.er/jclasses
+D	3.er/_x4.er/log.xml
+D	3.er/_x4.er/map.xml
+D	3.er/_x4.er/overview
+D	3.er/_x4.er/profile
+D	3.er/_x4_f1.er/data.frameinfo
+D	3.er/_x4_f1.er/dyntext
+D	3.er/_x4_f1.er/jclasses
+D	3.er/_x4_f1.er/log.xml
+D	3.er/_x4_f1.er/map.xml
+D	3.er/_x4_f1.er/overview
+D	3.er/_x4_f1.er/profile
+D	3.er/_x4_f1_x1.er/data.frameinfo
+D	3.er/_x4_f1_x1.er/dyntext
+D	3.er/_x4_f1_x1.er/er_archive.log
+D	3.er/_x4_f1_x1.er/jclasses
+D	3.er/_x4_f1_x1.er/log.xml
+D	3.er/_x4_f1_x1.er/map.xml
+D	3.er/_x4_f1_x1.er/overview
+D	3.er/_x4_f1_x1.er/profile
+D	3.er/archives/ShallowWaterMain_5uKiWSIGsf0
+D	3.er/archives/cc1plus_TDkqNgNfiP1
+D	3.er/archives/collect2_TDkqNgNfiP1
+D	3.er/archives/ld-2.31.so_XLwlkF_Wwof
+D	3.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+D	3.er/archives/libbfd-2.35.2-system.so_dnWuQRcLhw9
+D	3.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+D	3.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+D	3.er/archives/libc-2.31.so_XLwlkF_Wwof
+D	3.er/archives/libcollector.so_kN_xj2QRtH5
+D	3.er/archives/libctf.so.0.0.0_dnWuQRcLhw9
+D	3.er/archives/libdl-2.31.so_XLwlkF_Wwof
+D	3.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+D	3.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+D	3.er/archives/libgmp.so.10.4.1_dnWuQRcLhw9
+D	3.er/archives/libisl.so.23.0.0_dnWuQRcLhw9
+D	3.er/archives/liblto_plugin.so.0.0.0_TDkqNgNfiP1
+D	3.er/archives/libm-2.31.so_XLwlkF_Wwof
+D	3.er/archives/libmpc.so.3.2.0_dnWuQRcLhw9
+D	3.er/archives/libmpfr.so.6.1.0_dnWuQRcLhw9
+D	3.er/archives/libopcodes-2.35.2-system.so_dnWuQRcLhw9
+D	3.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+D	3.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+D	3.er/archives/librt-2.31.so_XLwlkF_Wwof
+D	3.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+D	3.er/archives/libz.so.1.2.11_XLwlkF_Wwof
+D	3.er/archives/libzstd.so.1.4.8_dnWuQRcLhw9
+D	3.er/archives/make_UHyILZt997d
+D	3.er/archives/time_UHyILZt997d
+D	3.er/archives/x86_64-linux-gnu-as_UHyILZt997d
+D	3.er/archives/x86_64-linux-gnu-g++-10_UHyILZt997d
+D	3.er/archives/x86_64-linux-gnu-ld.bfd_UHyILZt997d
+D	3.er/data.frameinfo
+D	3.er/dyntext
+D	3.er/er_archive.log
+D	3.er/jclasses
+D	3.er/log.xml
+D	3.er/map.xml
+D	3.er/overview
+D	3.er/profile
+D	4.er/_x1.er/data.frameinfo
+D	4.er/_x1.er/dyntext
+D	4.er/_x1.er/er_archive.log
+D	4.er/_x1.er/jclasses
+D	4.er/_x1.er/log.xml
+D	4.er/_x1.er/map.xml
+D	4.er/_x1.er/overview
+D	4.er/_x1.er/profile
+D	4.er/_x1_f1.er/data.frameinfo
+D	4.er/_x1_f1.er/dyntext
+D	4.er/_x1_f1.er/jclasses
+D	4.er/_x1_f1.er/log.xml
+D	4.er/_x1_f1.er/map.xml
+D	4.er/_x1_f1.er/overview
+D	4.er/_x1_f1.er/profile
+D	4.er/_x1_f1_x1.er/data.frameinfo
+D	4.er/_x1_f1_x1.er/dyntext
+D	4.er/_x1_f1_x1.er/er_archive.log
+D	4.er/_x1_f1_x1.er/jclasses
+D	4.er/_x1_f1_x1.er/log.xml
+D	4.er/_x1_f1_x1.er/map.xml
+D	4.er/_x1_f1_x1.er/overview
+D	4.er/_x1_f1_x1.er/profile
+D	4.er/archives/ShallowWaterMain_5uKiWSIGsf0
+D	4.er/archives/ld-2.31.so_XLwlkF_Wwof
+D	4.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+D	4.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+D	4.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+D	4.er/archives/libc-2.31.so_XLwlkF_Wwof
+D	4.er/archives/libcollector.so_kN_xj2QRtH5
+D	4.er/archives/libdl-2.31.so_XLwlkF_Wwof
+D	4.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+D	4.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+D	4.er/archives/libm-2.31.so_XLwlkF_Wwof
+D	4.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+D	4.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+D	4.er/archives/librt-2.31.so_XLwlkF_Wwof
+D	4.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+D	4.er/archives/make_UHyILZt997d
+D	4.er/archives/time_UHyILZt997d
+D	4.er/data.frameinfo
+D	4.er/dyntext
+D	4.er/er_archive.log
+D	4.er/jclasses
+D	4.er/log.xml
+D	4.er/map.xml
+D	4.er/overview
+D	4.er/profile
+D	5.er/_x1.er/data.frameinfo
+D	5.er/_x1.er/dyntext
+D	5.er/_x1.er/er_archive.log
+D	5.er/_x1.er/jclasses
+D	5.er/_x1.er/log.xml
+D	5.er/_x1.er/map.xml
+D	5.er/_x1.er/overview
+D	5.er/_x1.er/profile
+D	5.er/_x1_f1.er/data.frameinfo
+D	5.er/_x1_f1.er/dyntext
+D	5.er/_x1_f1.er/jclasses
+D	5.er/_x1_f1.er/log.xml
+D	5.er/_x1_f1.er/map.xml
+D	5.er/_x1_f1.er/overview
+D	5.er/_x1_f1.er/profile
+D	5.er/_x1_f1_x1.er/data.frameinfo
+D	5.er/_x1_f1_x1.er/dyntext
+D	5.er/_x1_f1_x1.er/er_archive.log
+D	5.er/_x1_f1_x1.er/jclasses
+D	5.er/_x1_f1_x1.er/log.xml
+D	5.er/_x1_f1_x1.er/map.xml
+D	5.er/_x1_f1_x1.er/overview
+D	5.er/_x1_f1_x1.er/profile
+D	5.er/archives/ShallowWaterMain_5uKiWSIGsf0
+D	5.er/archives/ld-2.31.so_XLwlkF_Wwof
+D	5.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+D	5.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+D	5.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+D	5.er/archives/libc-2.31.so_XLwlkF_Wwof
+D	5.er/archives/libcollector.so_kN_xj2QRtH5
+D	5.er/archives/libdl-2.31.so_XLwlkF_Wwof
+D	5.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+D	5.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+D	5.er/archives/libm-2.31.so_XLwlkF_Wwof
+D	5.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+D	5.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+D	5.er/archives/librt-2.31.so_XLwlkF_Wwof
+D	5.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+D	5.er/archives/make_UHyILZt997d
+D	5.er/archives/time_UHyILZt997d
+D	5.er/data.frameinfo
+D	5.er/dyntext
+D	5.er/er_archive.log
+D	5.er/jclasses
+D	5.er/log.xml
+D	5.er/map.xml
+D	5.er/overview
+D	5.er/profile
+D	6.er/_x1.er/data.frameinfo
+D	6.er/_x1.er/dyntext
+D	6.er/_x1.er/er_archive.log
+D	6.er/_x1.er/jclasses
+D	6.er/_x1.er/log.xml
+D	6.er/_x1.er/map.xml
+D	6.er/_x1.er/overview
+D	6.er/_x1.er/profile
+D	6.er/_x1_f1.er/data.frameinfo
+D	6.er/_x1_f1.er/dyntext
+D	6.er/_x1_f1.er/jclasses
+D	6.er/_x1_f1.er/log.xml
+D	6.er/_x1_f1.er/map.xml
+D	6.er/_x1_f1.er/overview
+D	6.er/_x1_f1.er/profile
+D	6.er/_x1_f1_x1.er/data.frameinfo
+D	6.er/_x1_f1_x1.er/dyntext
+D	6.er/_x1_f1_x1.er/er_archive.log
+D	6.er/_x1_f1_x1.er/jclasses
+D	6.er/_x1_f1_x1.er/log.xml
+D	6.er/_x1_f1_x1.er/map.xml
+D	6.er/_x1_f1_x1.er/overview
+D	6.er/_x1_f1_x1.er/profile
+D	6.er/archives/ShallowWaterMain_5uKiWSIGsf0
+D	6.er/archives/ld-2.31.so_XLwlkF_Wwof
+D	6.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+D	6.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+D	6.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+D	6.er/archives/libc-2.31.so_XLwlkF_Wwof
+D	6.er/archives/libcollector.so_kN_xj2QRtH5
+D	6.er/archives/libdl-2.31.so_XLwlkF_Wwof
+D	6.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+D	6.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+D	6.er/archives/libm-2.31.so_XLwlkF_Wwof
+D	6.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+D	6.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+D	6.er/archives/librt-2.31.so_XLwlkF_Wwof
+D	6.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+D	6.er/archives/make_UHyILZt997d
+D	6.er/archives/time_UHyILZt997d
+D	6.er/data.frameinfo
+D	6.er/dyntext
+D	6.er/er_archive.log
+D	6.er/jclasses
+D	6.er/log.xml
+D	6.er/map.xml
+D	6.er/overview
+D	6.er/profile
+D	7.er/_x1.er/data.frameinfo
+D	7.er/_x1.er/dyntext
+D	7.er/_x1.er/er_archive.log
+D	7.er/_x1.er/jclasses
+D	7.er/_x1.er/log.xml
+D	7.er/_x1.er/map.xml
+D	7.er/_x1.er/overview
+D	7.er/_x1.er/profile
+D	7.er/_x1_f1.er/data.frameinfo
+D	7.er/_x1_f1.er/dyntext
+D	7.er/_x1_f1.er/jclasses
+D	7.er/_x1_f1.er/log.xml
+D	7.er/_x1_f1.er/map.xml
+D	7.er/_x1_f1.er/overview
+D	7.er/_x1_f1.er/profile
+D	7.er/_x1_f1_x1.er/data.frameinfo
+D	7.er/_x1_f1_x1.er/dyntext
+D	7.er/_x1_f1_x1.er/er_archive.log
+D	7.er/_x1_f1_x1.er/jclasses
+D	7.er/_x1_f1_x1.er/log.xml
+D	7.er/_x1_f1_x1.er/map.xml
+D	7.er/_x1_f1_x1.er/overview
+D	7.er/_x1_f1_x1.er/profile
+D	7.er/archives/ShallowWaterMain_5uKiWSIGsf0
+D	7.er/archives/ld-2.31.so_XLwlkF_Wwof
+D	7.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+D	7.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+D	7.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+D	7.er/archives/libc-2.31.so_XLwlkF_Wwof
+D	7.er/archives/libcollector.so_kN_xj2QRtH5
+D	7.er/archives/libdl-2.31.so_XLwlkF_Wwof
+D	7.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+D	7.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+D	7.er/archives/libm-2.31.so_XLwlkF_Wwof
+D	7.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+D	7.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+D	7.er/archives/librt-2.31.so_XLwlkF_Wwof
+D	7.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+D	7.er/archives/make_UHyILZt997d
+D	7.er/archives/time_UHyILZt997d
+D	7.er/data.frameinfo
+D	7.er/dyntext
+D	7.er/er_archive.log
+D	7.er/jclasses
+D	7.er/log.xml
+D	7.er/map.xml
+D	7.er/overview
+D	7.er/profile
+D	initial.er/_x1.er/data.frameinfo
+D	initial.er/_x1.er/dyntext
+D	initial.er/_x1.er/er_archive.log
+D	initial.er/_x1.er/jclasses
+D	initial.er/_x1.er/log.xml
+D	initial.er/_x1.er/map.xml
+D	initial.er/_x1.er/overview
+D	initial.er/_x1.er/profile
+D	initial.er/_x1_f1.er/data.frameinfo
+D	initial.er/_x1_f1.er/dyntext
+D	initial.er/_x1_f1.er/jclasses
+D	initial.er/_x1_f1.er/log.xml
+D	initial.er/_x1_f1.er/map.xml
+D	initial.er/_x1_f1.er/overview
+D	initial.er/_x1_f1.er/profile
+D	initial.er/_x1_f1_x1.er/data.frameinfo
+D	initial.er/_x1_f1_x1.er/dyntext
+D	initial.er/_x1_f1_x1.er/er_archive.log
+D	initial.er/_x1_f1_x1.er/jclasses
+D	initial.er/_x1_f1_x1.er/log.xml
+D	initial.er/_x1_f1_x1.er/map.xml
+D	initial.er/_x1_f1_x1.er/overview
+D	initial.er/_x1_f1_x1.er/profile
+D	initial.er/archives/ShallowWaterMain_5uKiWSIGsf0
+D	initial.er/archives/ld-2.31.so_XLwlkF_Wwof
+D	initial.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+D	initial.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+D	initial.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+D	initial.er/archives/libc-2.31.so_XLwlkF_Wwof
+D	initial.er/archives/libcollector.so_kN_xj2QRtH5
+D	initial.er/archives/libdl-2.31.so_XLwlkF_Wwof
+D	initial.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+D	initial.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+D	initial.er/archives/libm-2.31.so_XLwlkF_Wwof
+D	initial.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+D	initial.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+D	initial.er/archives/librt-2.31.so_XLwlkF_Wwof
+D	initial.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+D	initial.er/archives/make_UHyILZt997d
+D	initial.er/archives/time_UHyILZt997d
+D	initial.er/data.frameinfo
+D	initial.er/dyntext
+D	initial.er/er_archive.log
+D	initial.er/jclasses
+D	initial.er/log.xml
+D	initial.er/map.xml
+D	initial.er/overview
+D	initial.er/profile
+
+commit 057a917526fba95ca30df33cdbac7e65d2a085d8
+Author: WeihanLee <weihan.lee@imperial.ac.uk>
+Date:   Sun Mar 19 03:08:42 2023 +0000
+
+    profiling
+
+A	2.er/_x1.er/data.frameinfo
+A	2.er/_x1.er/dyntext
+A	2.er/_x1.er/er_archive.log
+A	2.er/_x1.er/jclasses
+A	2.er/_x1.er/log.xml
+A	2.er/_x1.er/map.xml
+A	2.er/_x1.er/overview
+A	2.er/_x1.er/profile
+A	2.er/_x1_f1.er/data.frameinfo
+A	2.er/_x1_f1.er/dyntext
+A	2.er/_x1_f1.er/jclasses
+A	2.er/_x1_f1.er/log.xml
+A	2.er/_x1_f1.er/map.xml
+A	2.er/_x1_f1.er/overview
+A	2.er/_x1_f1.er/profile
+A	2.er/_x1_f1_x1.er/data.frameinfo
+A	2.er/_x1_f1_x1.er/dyntext
+A	2.er/_x1_f1_x1.er/er_archive.log
+A	2.er/_x1_f1_x1.er/jclasses
+A	2.er/_x1_f1_x1.er/log.xml
+A	2.er/_x1_f1_x1.er/map.xml
+A	2.er/_x1_f1_x1.er/overview
+A	2.er/_x1_f1_x1.er/profile
+A	2.er/archives/ShallowWaterMain_5uKiWSIGsf0
+A	2.er/archives/ld-2.31.so_XLwlkF_Wwof
+A	2.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+A	2.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+A	2.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+A	2.er/archives/libc-2.31.so_XLwlkF_Wwof
+A	2.er/archives/libcollector.so_kN_xj2QRtH5
+A	2.er/archives/libdl-2.31.so_XLwlkF_Wwof
+A	2.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+A	2.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+A	2.er/archives/libm-2.31.so_XLwlkF_Wwof
+A	2.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+A	2.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+A	2.er/archives/librt-2.31.so_XLwlkF_Wwof
+A	2.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+A	2.er/archives/make_UHyILZt997d
+A	2.er/archives/time_UHyILZt997d
+A	2.er/data.frameinfo
+A	2.er/dyntext
+A	2.er/er_archive.log
+A	2.er/jclasses
+A	2.er/log.xml
+A	2.er/map.xml
+A	2.er/overview
+A	2.er/profile
+A	3.er/_x1.er/data.frameinfo
+A	3.er/_x1.er/dyntext
+A	3.er/_x1.er/er_archive.log
+A	3.er/_x1.er/jclasses
+A	3.er/_x1.er/log.xml
+A	3.er/_x1.er/map.xml
+A	3.er/_x1.er/overview
+A	3.er/_x1.er/profile
+A	3.er/_x1_f1.er/data.frameinfo
+A	3.er/_x1_f1.er/dyntext
+A	3.er/_x1_f1.er/jclasses
+A	3.er/_x1_f1.er/log.xml
+A	3.er/_x1_f1.er/map.xml
+A	3.er/_x1_f1.er/overview
+A	3.er/_x1_f1.er/profile
+A	3.er/_x1_f1_x1.er/data.frameinfo
+A	3.er/_x1_f1_x1.er/dyntext
+A	3.er/_x1_f1_x1.er/er_archive.log
+A	3.er/_x1_f1_x1.er/jclasses
+A	3.er/_x1_f1_x1.er/log.xml
+A	3.er/_x1_f1_x1.er/map.xml
+A	3.er/_x1_f1_x1.er/overview
+A	3.er/_x1_f1_x1.er/profile
+A	3.er/_x1_f2.er/data.frameinfo
+A	3.er/_x1_f2.er/dyntext
+A	3.er/_x1_f2.er/jclasses
+A	3.er/_x1_f2.er/log.xml
+A	3.er/_x1_f2.er/map.xml
+A	3.er/_x1_f2.er/overview
+A	3.er/_x1_f2.er/profile
+A	3.er/_x1_f2_x1.er/data.frameinfo
+A	3.er/_x1_f2_x1.er/dyntext
+A	3.er/_x1_f2_x1.er/er_archive.log
+A	3.er/_x1_f2_x1.er/jclasses
+A	3.er/_x1_f2_x1.er/log.xml
+A	3.er/_x1_f2_x1.er/map.xml
+A	3.er/_x1_f2_x1.er/overview
+A	3.er/_x1_f2_x1.er/profile
+A	3.er/_x2.er/data.frameinfo
+A	3.er/_x2.er/dyntext
+A	3.er/_x2.er/er_archive.log
+A	3.er/_x2.er/jclasses
+A	3.er/_x2.er/log.xml
+A	3.er/_x2.er/map.xml
+A	3.er/_x2.er/overview
+A	3.er/_x2.er/profile
+A	3.er/_x2_f1.er/data.frameinfo
+A	3.er/_x2_f1.er/dyntext
+A	3.er/_x2_f1.er/jclasses
+A	3.er/_x2_f1.er/log.xml
+A	3.er/_x2_f1.er/map.xml
+A	3.er/_x2_f1.er/overview
+A	3.er/_x2_f1.er/profile
+A	3.er/_x2_f1_x1.er/data.frameinfo
+A	3.er/_x2_f1_x1.er/dyntext
+A	3.er/_x2_f1_x1.er/er_archive.log
+A	3.er/_x2_f1_x1.er/jclasses
+A	3.er/_x2_f1_x1.er/log.xml
+A	3.er/_x2_f1_x1.er/map.xml
+A	3.er/_x2_f1_x1.er/overview
+A	3.er/_x2_f1_x1.er/profile
+A	3.er/_x2_f2.er/data.frameinfo
+A	3.er/_x2_f2.er/dyntext
+A	3.er/_x2_f2.er/jclasses
+A	3.er/_x2_f2.er/log.xml
+A	3.er/_x2_f2.er/map.xml
+A	3.er/_x2_f2.er/overview
+A	3.er/_x2_f2.er/profile
+A	3.er/_x2_f2_x1.er/data.frameinfo
+A	3.er/_x2_f2_x1.er/dyntext
+A	3.er/_x2_f2_x1.er/er_archive.log
+A	3.er/_x2_f2_x1.er/jclasses
+A	3.er/_x2_f2_x1.er/log.xml
+A	3.er/_x2_f2_x1.er/map.xml
+A	3.er/_x2_f2_x1.er/overview
+A	3.er/_x2_f2_x1.er/profile
+A	3.er/_x3.er/data.frameinfo
+A	3.er/_x3.er/dyntext
+A	3.er/_x3.er/er_archive.log
+A	3.er/_x3.er/jclasses
+A	3.er/_x3.er/log.xml
+A	3.er/_x3.er/map.xml
+A	3.er/_x3.er/overview
+A	3.er/_x3.er/profile
+A	3.er/_x3_f1.er/data.frameinfo
+A	3.er/_x3_f1.er/dyntext
+A	3.er/_x3_f1.er/jclasses
+A	3.er/_x3_f1.er/log.xml
+A	3.er/_x3_f1.er/map.xml
+A	3.er/_x3_f1.er/overview
+A	3.er/_x3_f1.er/profile
+A	3.er/_x3_f1_x1.er/data.frameinfo
+A	3.er/_x3_f1_x1.er/dyntext
+A	3.er/_x3_f1_x1.er/er_archive.log
+A	3.er/_x3_f1_x1.er/jclasses
+A	3.er/_x3_f1_x1.er/log.xml
+A	3.er/_x3_f1_x1.er/map.xml
+A	3.er/_x3_f1_x1.er/overview
+A	3.er/_x3_f1_x1.er/profile
+A	3.er/_x3_f1_x1_f1.er/data.frameinfo
+A	3.er/_x3_f1_x1_f1.er/dyntext
+A	3.er/_x3_f1_x1_f1.er/jclasses
+A	3.er/_x3_f1_x1_f1.er/log.xml
+A	3.er/_x3_f1_x1_f1.er/map.xml
+A	3.er/_x3_f1_x1_f1.er/overview
+A	3.er/_x3_f1_x1_f1.er/profile
+A	3.er/_x3_f1_x1_f1_x1.er/data.frameinfo
+A	3.er/_x3_f1_x1_f1_x1.er/dyntext
+A	3.er/_x3_f1_x1_f1_x1.er/er_archive.log
+A	3.er/_x3_f1_x1_f1_x1.er/jclasses
+A	3.er/_x3_f1_x1_f1_x1.er/log.xml
+A	3.er/_x3_f1_x1_f1_x1.er/map.xml
+A	3.er/_x3_f1_x1_f1_x1.er/overview
+A	3.er/_x3_f1_x1_f1_x1.er/profile
+A	3.er/_x4.er/data.frameinfo
+A	3.er/_x4.er/dyntext
+A	3.er/_x4.er/er_archive.log
+A	3.er/_x4.er/jclasses
+A	3.er/_x4.er/log.xml
+A	3.er/_x4.er/map.xml
+A	3.er/_x4.er/overview
+A	3.er/_x4.er/profile
+A	3.er/_x4_f1.er/data.frameinfo
+A	3.er/_x4_f1.er/dyntext
+A	3.er/_x4_f1.er/jclasses
+A	3.er/_x4_f1.er/log.xml
+A	3.er/_x4_f1.er/map.xml
+A	3.er/_x4_f1.er/overview
+A	3.er/_x4_f1.er/profile
+A	3.er/_x4_f1_x1.er/data.frameinfo
+A	3.er/_x4_f1_x1.er/dyntext
+A	3.er/_x4_f1_x1.er/er_archive.log
+A	3.er/_x4_f1_x1.er/jclasses
+A	3.er/_x4_f1_x1.er/log.xml
+A	3.er/_x4_f1_x1.er/map.xml
+A	3.er/_x4_f1_x1.er/overview
+A	3.er/_x4_f1_x1.er/profile
+A	3.er/archives/ShallowWaterMain_5uKiWSIGsf0
+A	3.er/archives/cc1plus_TDkqNgNfiP1
+A	3.er/archives/collect2_TDkqNgNfiP1
+A	3.er/archives/ld-2.31.so_XLwlkF_Wwof
+A	3.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+A	3.er/archives/libbfd-2.35.2-system.so_dnWuQRcLhw9
+A	3.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+A	3.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+A	3.er/archives/libc-2.31.so_XLwlkF_Wwof
+A	3.er/archives/libcollector.so_kN_xj2QRtH5
+A	3.er/archives/libctf.so.0.0.0_dnWuQRcLhw9
+A	3.er/archives/libdl-2.31.so_XLwlkF_Wwof
+A	3.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+A	3.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+A	3.er/archives/libgmp.so.10.4.1_dnWuQRcLhw9
+A	3.er/archives/libisl.so.23.0.0_dnWuQRcLhw9
+A	3.er/archives/liblto_plugin.so.0.0.0_TDkqNgNfiP1
+A	3.er/archives/libm-2.31.so_XLwlkF_Wwof
+A	3.er/archives/libmpc.so.3.2.0_dnWuQRcLhw9
+A	3.er/archives/libmpfr.so.6.1.0_dnWuQRcLhw9
+A	3.er/archives/libopcodes-2.35.2-system.so_dnWuQRcLhw9
+A	3.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+A	3.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+A	3.er/archives/librt-2.31.so_XLwlkF_Wwof
+A	3.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+A	3.er/archives/libz.so.1.2.11_XLwlkF_Wwof
+A	3.er/archives/libzstd.so.1.4.8_dnWuQRcLhw9
+A	3.er/archives/make_UHyILZt997d
+A	3.er/archives/time_UHyILZt997d
+A	3.er/archives/x86_64-linux-gnu-as_UHyILZt997d
+A	3.er/archives/x86_64-linux-gnu-g++-10_UHyILZt997d
+A	3.er/archives/x86_64-linux-gnu-ld.bfd_UHyILZt997d
+A	3.er/data.frameinfo
+A	3.er/dyntext
+A	3.er/er_archive.log
+A	3.er/jclasses
+A	3.er/log.xml
+A	3.er/map.xml
+A	3.er/overview
+A	3.er/profile
+A	4.er/_x1.er/data.frameinfo
+A	4.er/_x1.er/dyntext
+A	4.er/_x1.er/er_archive.log
+A	4.er/_x1.er/jclasses
+A	4.er/_x1.er/log.xml
+A	4.er/_x1.er/map.xml
+A	4.er/_x1.er/overview
+A	4.er/_x1.er/profile
+A	4.er/_x1_f1.er/data.frameinfo
+A	4.er/_x1_f1.er/dyntext
+A	4.er/_x1_f1.er/jclasses
+A	4.er/_x1_f1.er/log.xml
+A	4.er/_x1_f1.er/map.xml
+A	4.er/_x1_f1.er/overview
+A	4.er/_x1_f1.er/profile
+A	4.er/_x1_f1_x1.er/data.frameinfo
+A	4.er/_x1_f1_x1.er/dyntext
+A	4.er/_x1_f1_x1.er/er_archive.log
+A	4.er/_x1_f1_x1.er/jclasses
+A	4.er/_x1_f1_x1.er/log.xml
+A	4.er/_x1_f1_x1.er/map.xml
+A	4.er/_x1_f1_x1.er/overview
+A	4.er/_x1_f1_x1.er/profile
+A	4.er/archives/ShallowWaterMain_5uKiWSIGsf0
+A	4.er/archives/ld-2.31.so_XLwlkF_Wwof
+A	4.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+A	4.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+A	4.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+A	4.er/archives/libc-2.31.so_XLwlkF_Wwof
+A	4.er/archives/libcollector.so_kN_xj2QRtH5
+A	4.er/archives/libdl-2.31.so_XLwlkF_Wwof
+A	4.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+A	4.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+A	4.er/archives/libm-2.31.so_XLwlkF_Wwof
+A	4.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+A	4.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+A	4.er/archives/librt-2.31.so_XLwlkF_Wwof
+A	4.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+A	4.er/archives/make_UHyILZt997d
+A	4.er/archives/time_UHyILZt997d
+A	4.er/data.frameinfo
+A	4.er/dyntext
+A	4.er/er_archive.log
+A	4.er/jclasses
+A	4.er/log.xml
+A	4.er/map.xml
+A	4.er/overview
+A	4.er/profile
+A	5.er/_x1.er/data.frameinfo
+A	5.er/_x1.er/dyntext
+A	5.er/_x1.er/er_archive.log
+A	5.er/_x1.er/jclasses
+A	5.er/_x1.er/log.xml
+A	5.er/_x1.er/map.xml
+A	5.er/_x1.er/overview
+A	5.er/_x1.er/profile
+A	5.er/_x1_f1.er/data.frameinfo
+A	5.er/_x1_f1.er/dyntext
+A	5.er/_x1_f1.er/jclasses
+A	5.er/_x1_f1.er/log.xml
+A	5.er/_x1_f1.er/map.xml
+A	5.er/_x1_f1.er/overview
+A	5.er/_x1_f1.er/profile
+A	5.er/_x1_f1_x1.er/data.frameinfo
+A	5.er/_x1_f1_x1.er/dyntext
+A	5.er/_x1_f1_x1.er/er_archive.log
+A	5.er/_x1_f1_x1.er/jclasses
+A	5.er/_x1_f1_x1.er/log.xml
+A	5.er/_x1_f1_x1.er/map.xml
+A	5.er/_x1_f1_x1.er/overview
+A	5.er/_x1_f1_x1.er/profile
+A	5.er/archives/ShallowWaterMain_5uKiWSIGsf0
+A	5.er/archives/ld-2.31.so_XLwlkF_Wwof
+A	5.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+A	5.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+A	5.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+A	5.er/archives/libc-2.31.so_XLwlkF_Wwof
+A	5.er/archives/libcollector.so_kN_xj2QRtH5
+A	5.er/archives/libdl-2.31.so_XLwlkF_Wwof
+A	5.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+A	5.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+A	5.er/archives/libm-2.31.so_XLwlkF_Wwof
+A	5.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+A	5.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+A	5.er/archives/librt-2.31.so_XLwlkF_Wwof
+A	5.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+A	5.er/archives/make_UHyILZt997d
+A	5.er/archives/time_UHyILZt997d
+A	5.er/data.frameinfo
+A	5.er/dyntext
+A	5.er/er_archive.log
+A	5.er/jclasses
+A	5.er/log.xml
+A	5.er/map.xml
+A	5.er/overview
+A	5.er/profile
+A	6.er/_x1.er/data.frameinfo
+A	6.er/_x1.er/dyntext
+A	6.er/_x1.er/er_archive.log
+A	6.er/_x1.er/jclasses
+A	6.er/_x1.er/log.xml
+A	6.er/_x1.er/map.xml
+A	6.er/_x1.er/overview
+A	6.er/_x1.er/profile
+A	6.er/_x1_f1.er/data.frameinfo
+A	6.er/_x1_f1.er/dyntext
+A	6.er/_x1_f1.er/jclasses
+A	6.er/_x1_f1.er/log.xml
+A	6.er/_x1_f1.er/map.xml
+A	6.er/_x1_f1.er/overview
+A	6.er/_x1_f1.er/profile
+A	6.er/_x1_f1_x1.er/data.frameinfo
+A	6.er/_x1_f1_x1.er/dyntext
+A	6.er/_x1_f1_x1.er/er_archive.log
+A	6.er/_x1_f1_x1.er/jclasses
+A	6.er/_x1_f1_x1.er/log.xml
+A	6.er/_x1_f1_x1.er/map.xml
+A	6.er/_x1_f1_x1.er/overview
+A	6.er/_x1_f1_x1.er/profile
+A	6.er/archives/ShallowWaterMain_5uKiWSIGsf0
+A	6.er/archives/ld-2.31.so_XLwlkF_Wwof
+A	6.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+A	6.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+A	6.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+A	6.er/archives/libc-2.31.so_XLwlkF_Wwof
+A	6.er/archives/libcollector.so_kN_xj2QRtH5
+A	6.er/archives/libdl-2.31.so_XLwlkF_Wwof
+A	6.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+A	6.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+A	6.er/archives/libm-2.31.so_XLwlkF_Wwof
+A	6.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+A	6.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+A	6.er/archives/librt-2.31.so_XLwlkF_Wwof
+A	6.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+A	6.er/archives/make_UHyILZt997d
+A	6.er/archives/time_UHyILZt997d
+A	6.er/data.frameinfo
+A	6.er/dyntext
+A	6.er/er_archive.log
+A	6.er/jclasses
+A	6.er/log.xml
+A	6.er/map.xml
+A	6.er/overview
+A	6.er/profile
+A	7.er/_x1.er/data.frameinfo
+A	7.er/_x1.er/dyntext
+A	7.er/_x1.er/er_archive.log
+A	7.er/_x1.er/jclasses
+A	7.er/_x1.er/log.xml
+A	7.er/_x1.er/map.xml
+A	7.er/_x1.er/overview
+A	7.er/_x1.er/profile
+A	7.er/_x1_f1.er/data.frameinfo
+A	7.er/_x1_f1.er/dyntext
+A	7.er/_x1_f1.er/jclasses
+A	7.er/_x1_f1.er/log.xml
+A	7.er/_x1_f1.er/map.xml
+A	7.er/_x1_f1.er/overview
+A	7.er/_x1_f1.er/profile
+A	7.er/_x1_f1_x1.er/data.frameinfo
+A	7.er/_x1_f1_x1.er/dyntext
+A	7.er/_x1_f1_x1.er/er_archive.log
+A	7.er/_x1_f1_x1.er/jclasses
+A	7.er/_x1_f1_x1.er/log.xml
+A	7.er/_x1_f1_x1.er/map.xml
+A	7.er/_x1_f1_x1.er/overview
+A	7.er/_x1_f1_x1.er/profile
+A	7.er/archives/ShallowWaterMain_5uKiWSIGsf0
+A	7.er/archives/ld-2.31.so_XLwlkF_Wwof
+A	7.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+A	7.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+A	7.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+A	7.er/archives/libc-2.31.so_XLwlkF_Wwof
+A	7.er/archives/libcollector.so_kN_xj2QRtH5
+A	7.er/archives/libdl-2.31.so_XLwlkF_Wwof
+A	7.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+A	7.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+A	7.er/archives/libm-2.31.so_XLwlkF_Wwof
+A	7.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+A	7.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+A	7.er/archives/librt-2.31.so_XLwlkF_Wwof
+A	7.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+A	7.er/archives/make_UHyILZt997d
+A	7.er/archives/time_UHyILZt997d
+A	7.er/data.frameinfo
+A	7.er/dyntext
+A	7.er/er_archive.log
+A	7.er/jclasses
+A	7.er/log.xml
+A	7.er/map.xml
+A	7.er/overview
+A	7.er/profile
+M	Makefile
+M	ShallowWater.o
+M	ShallowWaterMain
+M	ShallowWaterMain.o
+A	initial.er/_x1.er/data.frameinfo
+A	initial.er/_x1.er/dyntext
+A	initial.er/_x1.er/er_archive.log
+A	initial.er/_x1.er/jclasses
+A	initial.er/_x1.er/log.xml
+A	initial.er/_x1.er/map.xml
+A	initial.er/_x1.er/overview
+A	initial.er/_x1.er/profile
+A	initial.er/_x1_f1.er/data.frameinfo
+A	initial.er/_x1_f1.er/dyntext
+A	initial.er/_x1_f1.er/jclasses
+A	initial.er/_x1_f1.er/log.xml
+A	initial.er/_x1_f1.er/map.xml
+A	initial.er/_x1_f1.er/overview
+A	initial.er/_x1_f1.er/profile
+A	initial.er/_x1_f1_x1.er/data.frameinfo
+A	initial.er/_x1_f1_x1.er/dyntext
+A	initial.er/_x1_f1_x1.er/er_archive.log
+A	initial.er/_x1_f1_x1.er/jclasses
+A	initial.er/_x1_f1_x1.er/log.xml
+A	initial.er/_x1_f1_x1.er/map.xml
+A	initial.er/_x1_f1_x1.er/overview
+A	initial.er/_x1_f1_x1.er/profile
+A	initial.er/archives/ShallowWaterMain_5uKiWSIGsf0
+A	initial.er/archives/ld-2.31.so_XLwlkF_Wwof
+A	initial.er/archives/libatlas.so.3.10.3_dnWuQRcLhw9
+A	initial.er/archives/libblas.so.3.10.3_IiHvjNbM48a
+A	initial.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+A	initial.er/archives/libc-2.31.so_XLwlkF_Wwof
+A	initial.er/archives/libcollector.so_kN_xj2QRtH5
+A	initial.er/archives/libdl-2.31.so_XLwlkF_Wwof
+A	initial.er/archives/libgcc_s.so.1_XLwlkF_Wwof
+A	initial.er/archives/libgfortran.so.5.0.0_dnWuQRcLhw9
+A	initial.er/archives/libm-2.31.so_XLwlkF_Wwof
+A	initial.er/archives/libpthread-2.31.so_XLwlkF_Wwof
+A	initial.er/archives/libquadmath.so.0.0.0_dnWuQRcLhw9
+A	initial.er/archives/librt-2.31.so_XLwlkF_Wwof
+A	initial.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+A	initial.er/archives/make_UHyILZt997d
+A	initial.er/archives/time_UHyILZt997d
+A	initial.er/data.frameinfo
+A	initial.er/dyntext
+A	initial.er/er_archive.log
+A	initial.er/jclasses
+A	initial.er/log.xml
+A	initial.er/map.xml
+A	initial.er/overview
+A	initial.er/profile
+M	output.txt
+
+commit 2484c82e4ef72fac56c39ce0cd7ce75b1e6b43ec
+Author: WeihanLee <weihan.lee@imperial.ac.uk>
+Date:   Sat Mar 18 23:16:29 2023 +0000
+
+    all working, no parallel
+
+M	HPC_CW.mk
+M	HPC_CW.project
+M	Makefile
+M	ShallowWater.cpp
+M	ShallowWater.o
+M	ShallowWaterMain
+M	ShallowWaterMain.cpp
+M	ShallowWaterMain.o
+M	output.txt
+
+commit 2ce1c49fc5b07ae3bd53dc69fbc073c5096f134c
+Author: WeihanLee <weihan.lee@imperial.ac.uk>
+Date:   Sat Mar 18 20:00:41 2023 +0000
+
+    Command line, no parallel, BLAS not working, all else ok.
+
+M	HPC_CW.mk
+M	HPC_CW.project
+M	Makefile
+M	ShallowWater.cpp
+M	ShallowWater.h
+M	ShallowWaterMain.cpp
+A	output.txt
+
+commit 0c99da13de05d53cdcd3d98813d7504b30fbab16
+Author: WeihanLee <weihan.lee@imperial.ac.uk>
+Date:   Fri Mar 17 23:25:42 2023 +0000
+
+    with blas but not working
+
+M	HPC_CW.project
+M	ShallowWater.cpp
+M	ShallowWater.h
+M	ShallowWaterMain.cpp
+
+commit 1cd3bbbc70a9299f1f59b926e23cf18c0776ea00
+Author: WeihanLee <weihan.lee@imperial.ac.uk>
+Date:   Fri Mar 17 10:05:12 2023 +0000
+
+    mightve worked
+
+M	ShallowWater.cpp
+M	ShallowWater.h
+
+commit a76041bf8c08c26a943d9939faec9016b9bdf028
+Author: WeihanLee <weihan.lee@imperial.ac.uk>
+Date:   Fri Mar 17 03:12:59 2023 +0000
+
+    half working
+
+M	HPC_CW.mk
+M	ShallowWater.cpp
+M	ShallowWater.h
+M	ShallowWaterMain.cpp
+
+commit eda47b0823dfc4d580f048dd94fb1324372151a7
+Author: WeihanLee <weihan.lee@imperial.ac.uk>
+Date:   Fri Mar 17 02:04:35 2023 +0000
+
+    RK didnt work
+
+M	ShallowWater.cpp
+A	ShallowWater.o
+A	ShallowWaterMain
+M	ShallowWaterMain.cpp
+A	ShallowWaterMain.o
+
+commit 53c652b42b4452ad28962783a33f9b465ad9cc4a
+Author: WeihanLee <weihan.lee@imperial.ac.uk>
+Date:   Mon Mar 13 02:39:02 2023 +0000
+
+    working, but nothing
+
+M	HPC_CW.mk
+M	HPC_CW.project
+M	Makefile
+M	ShallowWater.cpp
+M	ShallowWater.h
+D	ShallowWater.o
+M	ShallowWaterMain.cpp
+D	ShallowWaterMain.o
+
+commit dba4318aabbe905825cf7c82b02baf2185b75087
+Author: WeihanLee <weihan.lee@imperial.ac.uk>
+Date:   Mon Mar 13 01:14:41 2023 +0000
+
+    another again
+
+M	Makefile
+A	ShallowWater.o
+A	ShallowWaterMain.o
+
+commit 7ef86a24f6551cd29cb51a5c8976185353f53d02
+Author: WeihanLee <weihan.lee@imperial.ac.uk>
+Date:   Mon Mar 13 01:06:00 2023 +0000
+
+    again
+
+M	Makefile
+
+commit cf37458d152f5eb971c0a13512875439d7764c79
+Author: WeihanLee <weihan.lee@imperial.ac.uk>
+Date:   Mon Mar 13 01:04:16 2023 +0000
+
+    initial working?
+
+M	HPC_CW.mk
+M	ShallowWater.cpp
+M	ShallowWater.h
+M	ShallowWaterMain.cpp
+
+commit bdda91ff9651accafa85c7584d12acd51da7011d
+Author: WeihanLee <weihan.lee@imperial.ac.uk>
+Date:   Mon Mar 13 00:44:20 2023 +0000
+
+    v3
+
+M	ShallowWater.cpp
+M	ShallowWater.h
+M	ShallowWaterMain.cpp
+
+commit 832fb744125afa9a664ba5ab43c38f02a4f348d1
+Author: WeihanLee <weihan.lee@imperial.ac.uk>
+Date:   Sun Mar 12 23:42:44 2023 +0000
+
+    v2
+
+A	HPC_CW.mk
+M	HPC_CW.project
+M	Makefile
+M	ShallowWater.cpp
+M	ShallowWater.h
+
+commit 5fde0b2b4e31d55063deca949bd25eabaf5c4a94
+Author: WeihanLee <weihan.lee@imperial.ac.uk>
+Date:   Sun Mar 12 23:23:12 2023 +0000
+
+    Init code with makefile
+
+A	.clang-format
+A	.clangd
+A	HPC_CW.project
+A	Makefile
+M	ShallowWater.cpp
+M	ShallowWaterMain.cpp
+
+commit c6eda1beca3806e18d60891e2d1a11fdead2d678
+Author: WeihanLee <weihan.lee@imperial.ac.uk>
+Date:   Sun Mar 12 18:36:43 2023 +0000
+
+    first trial of complete  code
+
+A	ShallowWater.cpp
+A	ShallowWater.h
+
+commit 8a8a4d5332e3a398c862d718bf91c5046646e411
+Author: WeihanLee <weihan.lee@imperial.ac.uk>
+Date:   Sat Mar 11 12:11:51 2023 +0000
+
+    more
+
+M	ShallowWaterMain.cpp
+
+commit 0f05c03f8726e66653be093eebc54387b143aae5
+Author: WeihanLee <weihan.lee@imperial.ac.uk>
+Date:   Fri Mar 10 22:58:02 2023 +0000
+
+    Initial code of ShallowWaterMain.cpp
+
+A	ShallowWaterMain.cpp
